@@ -1,0 +1,4933 @@
+country,indicator,Year,Value
+Afghanistan,Total,2008,1
+Afghanistan,Total,2012,1
+Afghanistan,Gold,2008,0
+Afghanistan,Gold,2012,0
+Afghanistan,Silver,2008,0
+Afghanistan,Silver,2012,0
+Afghanistan,Bronze,2008,1
+Afghanistan,Bronze,2012,1
+Algeria,Total,1984,2
+Algeria,Total,1992,2
+Algeria,Total,1996,3
+Algeria,Total,2000,5
+Algeria,Total,2008,2
+Algeria,Total,2012,1
+Algeria,Gold,1984,0
+Algeria,Gold,1992,1
+Algeria,Gold,1996,2
+Algeria,Gold,2000,1
+Algeria,Gold,2008,0
+Algeria,Gold,2012,1
+Algeria,Silver,1984,0
+Algeria,Silver,1992,0
+Algeria,Silver,1996,0
+Algeria,Silver,2000,1
+Algeria,Silver,2008,1
+Algeria,Silver,2012,0
+Algeria,Bronze,1984,2
+Algeria,Bronze,1992,1
+Algeria,Bronze,1996,1
+Algeria,Bronze,2000,3
+Algeria,Bronze,2008,1
+Algeria,Bronze,2012,0
+Argentina,Total,1924,6
+Argentina,Total,1928,7
+Argentina,Total,1932,4
+Argentina,Total,1936,7
+Argentina,Total,1948,7
+Argentina,Total,1952,5
+Argentina,Total,1956,2
+Argentina,Total,1960,2
+Argentina,Total,1964,1
+Argentina,Total,1968,2
+Argentina,Total,1972,1
+Argentina,Total,1988,2
+Argentina,Total,1992,1
+Argentina,Total,1996,3
+Argentina,Total,2000,4
+Argentina,Total,2004,6
+Argentina,Total,2008,6
+Argentina,Total,2012,4
+Argentina,Total,2016,1
+Argentina,Gold,1924,1
+Argentina,Gold,1928,3
+Argentina,Gold,1932,3
+Argentina,Gold,1936,2
+Argentina,Gold,1948,3
+Argentina,Gold,1952,1
+Argentina,Gold,1956,0
+Argentina,Gold,1960,0
+Argentina,Gold,1964,0
+Argentina,Gold,1968,0
+Argentina,Gold,1972,0
+Argentina,Gold,1988,0
+Argentina,Gold,1992,0
+Argentina,Gold,1996,0
+Argentina,Gold,2000,0
+Argentina,Gold,2004,2
+Argentina,Gold,2008,2
+Argentina,Gold,2012,1
+Argentina,Gold,2016,1
+Argentina,Silver,1924,3
+Argentina,Silver,1928,3
+Argentina,Silver,1932,1
+Argentina,Silver,1936,2
+Argentina,Silver,1948,3
+Argentina,Silver,1952,2
+Argentina,Silver,1956,1
+Argentina,Silver,1960,1
+Argentina,Silver,1964,1
+Argentina,Silver,1968,0
+Argentina,Silver,1972,1
+Argentina,Silver,1988,1
+Argentina,Silver,1992,0
+Argentina,Silver,1996,2
+Argentina,Silver,2000,2
+Argentina,Silver,2004,0
+Argentina,Silver,2008,0
+Argentina,Silver,2012,1
+Argentina,Silver,2016,0
+Argentina,Bronze,1924,2
+Argentina,Bronze,1928,1
+Argentina,Bronze,1932,0
+Argentina,Bronze,1936,3
+Argentina,Bronze,1948,1
+Argentina,Bronze,1952,2
+Argentina,Bronze,1956,1
+Argentina,Bronze,1960,1
+Argentina,Bronze,1964,0
+Argentina,Bronze,1968,2
+Argentina,Bronze,1972,0
+Argentina,Bronze,1988,1
+Argentina,Bronze,1992,1
+Argentina,Bronze,1996,1
+Argentina,Bronze,2000,2
+Argentina,Bronze,2004,4
+Argentina,Bronze,2008,4
+Argentina,Bronze,2012,2
+Argentina,Bronze,2016,0
+Jamaica,Total,1948,3
+Jamaica,Total,1952,5
+Jamaica,Total,1968,1
+Jamaica,Total,1972,1
+Jamaica,Total,1976,2
+Jamaica,Total,1980,3
+Jamaica,Total,1984,3
+Jamaica,Total,1988,2
+Jamaica,Total,1992,4
+Jamaica,Total,1996,6
+Jamaica,Total,2000,9
+Jamaica,Total,2004,5
+Jamaica,Total,2008,11
+Jamaica,Total,2012,12
+Jamaica,Gold,1948,1
+Jamaica,Gold,1952,2
+Jamaica,Gold,1968,0
+Jamaica,Gold,1972,0
+Jamaica,Gold,1976,1
+Jamaica,Gold,1980,0
+Jamaica,Gold,1984,0
+Jamaica,Gold,1988,0
+Jamaica,Gold,1992,0
+Jamaica,Gold,1996,1
+Jamaica,Gold,2000,0
+Jamaica,Gold,2004,2
+Jamaica,Gold,2008,6
+Jamaica,Gold,2012,4
+Jamaica,Silver,1948,2
+Jamaica,Silver,1952,3
+Jamaica,Silver,1968,1
+Jamaica,Silver,1972,0
+Jamaica,Silver,1976,1
+Jamaica,Silver,1980,0
+Jamaica,Silver,1984,1
+Jamaica,Silver,1988,2
+Jamaica,Silver,1992,3
+Jamaica,Silver,1996,3
+Jamaica,Silver,2000,6
+Jamaica,Silver,2004,1
+Jamaica,Silver,2008,3
+Jamaica,Silver,2012,4
+Jamaica,Bronze,1948,0
+Jamaica,Bronze,1952,0
+Jamaica,Bronze,1968,0
+Jamaica,Bronze,1972,1
+Jamaica,Bronze,1976,0
+Jamaica,Bronze,1980,3
+Jamaica,Bronze,1984,2
+Jamaica,Bronze,1988,0
+Jamaica,Bronze,1992,1
+Jamaica,Bronze,1996,2
+Jamaica,Bronze,2000,3
+Jamaica,Bronze,2004,2
+Jamaica,Bronze,2008,2
+Jamaica,Bronze,2012,4
+United States,Total,1896,20
+United States,Total,1900,47
+United States,Total,1904,239
+United States,Total,1908,47
+United States,Total,1912,63
+United States,Total,1920,95
+United States,Total,1924,99
+United States,Total,1928,56
+United States,Total,1932,103
+United States,Total,1936,56
+United States,Total,1948,84
+United States,Total,1952,76
+United States,Total,1956,74
+United States,Total,1960,71
+United States,Total,1964,90
+United States,Total,1968,107
+United States,Total,1972,94
+United States,Total,1976,94
+United States,Total,1984,174
+United States,Total,1988,94
+United States,Total,1992,108
+United States,Total,1996,101
+United States,Total,2000,93
+United States,Total,2004,101
+United States,Total,2008,110
+United States,Total,2012,103
+United States,Total,2016,26
+United States,Gold,1896,11
+United States,Gold,1900,19
+United States,Gold,1904,78
+United States,Gold,1908,23
+United States,Gold,1912,25
+United States,Gold,1920,41
+United States,Gold,1924,45
+United States,Gold,1928,22
+United States,Gold,1932,41
+United States,Gold,1936,24
+United States,Gold,1948,38
+United States,Gold,1952,40
+United States,Gold,1956,32
+United States,Gold,1960,34
+United States,Gold,1964,36
+United States,Gold,1968,45
+United States,Gold,1972,33
+United States,Gold,1976,34
+United States,Gold,1984,83
+United States,Gold,1988,36
+United States,Gold,1992,37
+United States,Gold,1996,44
+United States,Gold,2000,37
+United States,Gold,2004,36
+United States,Gold,2008,36
+United States,Gold,2012,46
+United States,Gold,2016,9
+United States,Silver,1896,7
+United States,Silver,1900,14
+United States,Silver,1904,82
+United States,Silver,1908,12
+United States,Silver,1912,19
+United States,Silver,1920,27
+United States,Silver,1924,27
+United States,Silver,1928,18
+United States,Silver,1932,32
+United States,Silver,1936,20
+United States,Silver,1948,27
+United States,Silver,1952,19
+United States,Silver,1956,25
+United States,Silver,1960,21
+United States,Silver,1964,26
+United States,Silver,1968,28
+United States,Silver,1972,31
+United States,Silver,1976,35
+United States,Silver,1984,61
+United States,Silver,1988,31
+United States,Silver,1992,34
+United States,Silver,1996,32
+United States,Silver,2000,24
+United States,Silver,2004,39
+United States,Silver,2008,38
+United States,Silver,2012,28
+United States,Silver,2016,8
+United States,Bronze,1896,2
+United States,Bronze,1900,14
+United States,Bronze,1904,79
+United States,Bronze,1908,12
+United States,Bronze,1912,19
+United States,Bronze,1920,27
+United States,Bronze,1924,27
+United States,Bronze,1928,16
+United States,Bronze,1932,30
+United States,Bronze,1936,12
+United States,Bronze,1948,19
+United States,Bronze,1952,17
+United States,Bronze,1956,17
+United States,Bronze,1960,16
+United States,Bronze,1964,28
+United States,Bronze,1968,34
+United States,Bronze,1972,30
+United States,Bronze,1976,25
+United States,Bronze,1984,30
+United States,Bronze,1988,27
+United States,Bronze,1992,37
+United States,Bronze,1996,25
+United States,Bronze,2000,32
+United States,Bronze,2004,26
+United States,Bronze,2008,36
+United States,Bronze,2012,29
+United States,Bronze,2016,9
+World,Total,1896,122
+World,Total,1900,268
+World,Total,1904,280
+World,Total,1908,324
+World,Total,1920,439
+World,Total,1924,378
+World,Total,1928,327
+World,Total,1932,346
+World,Total,1936,388
+World,Total,1948,411
+World,Total,1952,459
+World,Total,1956,469
+World,Total,1960,461
+World,Total,1964,504
+World,Total,1968,527
+World,Total,1972,600
+World,Total,1976,613
+World,Total,1980,631
+World,Total,1984,688
+World,Total,1988,739
+World,Total,1992,815
+World,Total,1996,842
+World,Total,2000,927
+World,Total,2004,927
+World,Total,2008,957
+World,Total,2012,961
+World,Total,2016,174
+World,Gold,1896,43
+World,Gold,1900,90
+World,Gold,1904,96
+World,Gold,1908,110
+World,Gold,1920,156
+World,Gold,1924,126
+World,Gold,1928,110
+World,Gold,1932,116
+World,Gold,1936,130
+World,Gold,1948,138
+World,Gold,1952,149
+World,Gold,1956,153
+World,Gold,1960,152
+World,Gold,1964,163
+World,Gold,1968,174
+World,Gold,1972,195
+World,Gold,1976,198
+World,Gold,1980,204
+World,Gold,1984,226
+World,Gold,1988,241
+World,Gold,1992,260
+World,Gold,1996,271
+World,Gold,2000,300
+World,Gold,2004,301
+World,Gold,2008,302
+World,Gold,2012,300
+World,Gold,2016,55
+World,Silver,1896,43
+World,Silver,1900,90
+World,Silver,1904,92
+World,Silver,1908,107
+World,Silver,1920,147
+World,Silver,1924,127
+World,Silver,1928,108
+World,Silver,1932,116
+World,Silver,1936,128
+World,Silver,1948,135
+World,Silver,1952,152
+World,Silver,1956,153
+World,Silver,1960,149
+World,Silver,1964,167
+World,Silver,1968,170
+World,Silver,1972,195
+World,Silver,1976,199
+World,Silver,1980,204
+World,Silver,1984,219
+World,Silver,1988,234
+World,Silver,1992,257
+World,Silver,1996,273
+World,Silver,2000,300
+World,Silver,2004,300
+World,Silver,2008,302
+World,Silver,2012,305
+World,Silver,2016,55
+World,Bronze,1896,36
+World,Bronze,1900,88
+World,Bronze,1904,92
+World,Bronze,1908,107
+World,Bronze,1920,136
+World,Bronze,1924,125
+World,Bronze,1928,109
+World,Bronze,1932,114
+World,Bronze,1936,130
+World,Bronze,1948,138
+World,Bronze,1952,158
+World,Bronze,1956,163
+World,Bronze,1960,160
+World,Bronze,1964,174
+World,Bronze,1968,183
+World,Bronze,1972,210
+World,Bronze,1976,216
+World,Bronze,1980,223
+World,Bronze,1984,243
+World,Bronze,1988,264
+World,Bronze,1992,298
+World,Bronze,1996,298
+World,Bronze,2000,327
+World,Bronze,2004,326
+World,Bronze,2008,353
+World,Bronze,2012,356
+World,Bronze,2016,64
+Armenia,Total,1996,2
+Armenia,Total,2000,1
+Armenia,Total,2008,6
+Armenia,Total,2012,3
+Armenia,Gold,1996,1
+Armenia,Gold,2000,0
+Armenia,Gold,2008,0
+Armenia,Gold,2012,0
+Armenia,Silver,1996,1
+Armenia,Silver,2000,0
+Armenia,Silver,2008,0
+Armenia,Silver,2012,1
+Armenia,Bronze,1996,0
+Armenia,Bronze,2000,1
+Armenia,Bronze,2008,6
+Armenia,Bronze,2012,2
+Australasia,Total,1908,5
+Australasia,Total,1912,7
+Australasia,Gold,1908,1
+Australasia,Gold,1912,2
+Australasia,Silver,1908,2
+Australasia,Silver,1912,2
+Australasia,Bronze,1908,2
+Australasia,Bronze,1912,3
+Australia,Total,1896,2
+Australia,Total,1900,5
+Australia,Total,1920,3
+Australia,Total,1924,6
+Australia,Total,1928,4
+Australia,Total,1932,5
+Australia,Total,1936,1
+Australia,Total,1948,13
+Australia,Total,1952,11
+Australia,Total,1956,35
+Australia,Total,1960,22
+Australia,Total,1964,18
+Australia,Total,1968,17
+Australia,Total,1972,17
+Australia,Total,1976,5
+Australia,Total,1980,9
+Australia,Total,1984,24
+Australia,Total,1988,14
+Australia,Total,1992,27
+Australia,Total,1996,41
+Australia,Total,2000,58
+Australia,Total,2004,50
+Australia,Total,2008,46
+Australia,Total,2012,37
+Australia,Total,2016,9
+Australia,Gold,1896,2
+Australia,Gold,1900,2
+Australia,Gold,1920,0
+Australia,Gold,1924,3
+Australia,Gold,1928,1
+Australia,Gold,1932,3
+Australia,Gold,1936,0
+Australia,Gold,1948,2
+Australia,Gold,1952,6
+Australia,Gold,1956,13
+Australia,Gold,1960,8
+Australia,Gold,1964,6
+Australia,Gold,1968,5
+Australia,Gold,1972,8
+Australia,Gold,1976,0
+Australia,Gold,1980,2
+Australia,Gold,1984,4
+Australia,Gold,1988,3
+Australia,Gold,1992,7
+Australia,Gold,1996,9
+Australia,Gold,2000,16
+Australia,Gold,2004,17
+Australia,Gold,2008,14
+Australia,Gold,2012,8
+Australia,Gold,2016,4
+Australia,Silver,1896,0
+Australia,Silver,1900,0
+Australia,Silver,1920,2
+Australia,Silver,1924,1
+Australia,Silver,1928,2
+Australia,Silver,1932,1
+Australia,Silver,1936,0
+Australia,Silver,1948,6
+Australia,Silver,1952,2
+Australia,Silver,1956,8
+Australia,Silver,1960,8
+Australia,Silver,1964,2
+Australia,Silver,1968,7
+Australia,Silver,1972,7
+Australia,Silver,1976,1
+Australia,Silver,1980,2
+Australia,Silver,1984,8
+Australia,Silver,1988,6
+Australia,Silver,1992,9
+Australia,Silver,1996,9
+Australia,Silver,2000,25
+Australia,Silver,2004,16
+Australia,Silver,2008,15
+Australia,Silver,2012,17
+Australia,Silver,2016,0
+Australia,Bronze,1896,0
+Australia,Bronze,1900,3
+Australia,Bronze,1920,1
+Australia,Bronze,1924,2
+Australia,Bronze,1928,1
+Australia,Bronze,1932,1
+Australia,Bronze,1936,1
+Australia,Bronze,1948,5
+Australia,Bronze,1952,3
+Australia,Bronze,1956,14
+Australia,Bronze,1960,6
+Australia,Bronze,1964,10
+Australia,Bronze,1968,5
+Australia,Bronze,1972,2
+Australia,Bronze,1976,4
+Australia,Bronze,1980,5
+Australia,Bronze,1984,12
+Australia,Bronze,1988,5
+Australia,Bronze,1992,11
+Australia,Bronze,1996,23
+Australia,Bronze,2000,17
+Australia,Bronze,2004,17
+Australia,Bronze,2008,17
+Australia,Bronze,2012,12
+Australia,Bronze,2016,5
+Austria,Total,1896,5
+Austria,Total,1900,6
+Austria,Total,1904,1
+Austria,Total,1908,1
+Austria,Total,1912,4
+Austria,Total,1924,4
+Austria,Total,1928,3
+Austria,Total,1932,5
+Austria,Total,1936,13
+Austria,Total,1948,4
+Austria,Total,1952,2
+Austria,Total,1956,2
+Austria,Total,1960,2
+Austria,Total,1968,4
+Austria,Total,1972,3
+Austria,Total,1976,1
+Austria,Total,1980,4
+Austria,Total,1984,3
+Austria,Total,1988,1
+Austria,Total,1992,2
+Austria,Total,1996,3
+Austria,Total,2000,3
+Austria,Total,2004,7
+Austria,Total,2008,3
+Austria,Gold,1896,2
+Austria,Gold,1900,0
+Austria,Gold,1904,0
+Austria,Gold,1908,0
+Austria,Gold,1912,0
+Austria,Gold,1924,0
+Austria,Gold,1928,2
+Austria,Gold,1932,1
+Austria,Gold,1936,4
+Austria,Gold,1948,1
+Austria,Gold,1952,0
+Austria,Gold,1956,0
+Austria,Gold,1960,1
+Austria,Gold,1968,0
+Austria,Gold,1972,0
+Austria,Gold,1976,0
+Austria,Gold,1980,1
+Austria,Gold,1984,1
+Austria,Gold,1988,1
+Austria,Gold,1992,0
+Austria,Gold,1996,0
+Austria,Gold,2000,2
+Austria,Gold,2004,2
+Austria,Gold,2008,0
+Austria,Silver,1896,1
+Austria,Silver,1900,3
+Austria,Silver,1904,0
+Austria,Silver,1908,0
+Austria,Silver,1912,2
+Austria,Silver,1924,3
+Austria,Silver,1928,0
+Austria,Silver,1932,1
+Austria,Silver,1936,6
+Austria,Silver,1948,0
+Austria,Silver,1952,1
+Austria,Silver,1956,0
+Austria,Silver,1960,1
+Austria,Silver,1968,2
+Austria,Silver,1972,1
+Austria,Silver,1976,0
+Austria,Silver,1980,2
+Austria,Silver,1984,1
+Austria,Silver,1988,0
+Austria,Silver,1992,2
+Austria,Silver,1996,1
+Austria,Silver,2000,1
+Austria,Silver,2004,4
+Austria,Silver,2008,1
+Austria,Bronze,1896,2
+Austria,Bronze,1900,3
+Austria,Bronze,1904,1
+Austria,Bronze,1908,1
+Austria,Bronze,1912,2
+Austria,Bronze,1924,1
+Austria,Bronze,1928,1
+Austria,Bronze,1932,3
+Austria,Bronze,1936,3
+Austria,Bronze,1948,3
+Austria,Bronze,1952,1
+Austria,Bronze,1956,2
+Austria,Bronze,1960,0
+Austria,Bronze,1968,2
+Austria,Bronze,1972,2
+Austria,Bronze,1976,1
+Austria,Bronze,1980,1
+Austria,Bronze,1984,1
+Austria,Bronze,1988,0
+Austria,Bronze,1992,0
+Austria,Bronze,1996,2
+Austria,Bronze,2000,0
+Austria,Bronze,2004,1
+Austria,Bronze,2008,2
+Azerbaijan,Total,1996,1
+Azerbaijan,Total,2000,3
+Azerbaijan,Total,2004,5
+Azerbaijan,Total,2008,7
+Azerbaijan,Total,2012,10
+Azerbaijan,Total,2016,1
+Azerbaijan,Gold,1996,0
+Azerbaijan,Gold,2000,2
+Azerbaijan,Gold,2004,1
+Azerbaijan,Gold,2008,1
+Azerbaijan,Gold,2012,2
+Azerbaijan,Gold,2016,0
+Azerbaijan,Silver,1996,1
+Azerbaijan,Silver,2000,0
+Azerbaijan,Silver,2004,0
+Azerbaijan,Silver,2008,2
+Azerbaijan,Silver,2012,2
+Azerbaijan,Silver,2016,1
+Azerbaijan,Bronze,1996,0
+Azerbaijan,Bronze,2000,1
+Azerbaijan,Bronze,2004,4
+Azerbaijan,Bronze,2008,4
+Azerbaijan,Bronze,2012,6
+Azerbaijan,Bronze,2016,0
+Bahamas,Total,1956,1
+Bahamas,Total,1964,1
+Bahamas,Total,1992,1
+Bahamas,Total,1996,1
+Bahamas,Total,2000,3
+Bahamas,Total,2004,2
+Bahamas,Total,2008,2
+Bahamas,Total,2012,1
+Bahamas,Gold,1956,0
+Bahamas,Gold,1964,1
+Bahamas,Gold,1992,0
+Bahamas,Gold,1996,0
+Bahamas,Gold,2000,2
+Bahamas,Gold,2004,1
+Bahamas,Gold,2008,0
+Bahamas,Gold,2012,1
+Bahamas,Silver,1956,0
+Bahamas,Silver,1964,0
+Bahamas,Silver,1992,0
+Bahamas,Silver,1996,1
+Bahamas,Silver,2000,0
+Bahamas,Silver,2004,0
+Bahamas,Silver,2008,1
+Bahamas,Silver,2012,0
+Bahamas,Bronze,1956,1
+Bahamas,Bronze,1964,0
+Bahamas,Bronze,1992,1
+Bahamas,Bronze,1996,0
+Bahamas,Bronze,2000,1
+Bahamas,Bronze,2004,1
+Bahamas,Bronze,2008,1
+Bahamas,Bronze,2012,0
+Bahrain,Total,2012,1
+Bahrain,Gold,2012,0
+Bahrain,Silver,2012,0
+Bahrain,Bronze,2012,1
+Barbados,Total,2000,1
+Barbados,Gold,2000,0
+Barbados,Silver,2000,0
+Barbados,Bronze,2000,1
+Belarus,Total,1996,15
+Belarus,Total,2000,17
+Belarus,Total,2004,13
+Belarus,Total,2008,18
+Belarus,Total,2012,12
+Belarus,Gold,1996,1
+Belarus,Gold,2000,3
+Belarus,Gold,2004,2
+Belarus,Gold,2008,4
+Belarus,Gold,2012,2
+Belarus,Silver,1996,6
+Belarus,Silver,2000,3
+Belarus,Silver,2004,5
+Belarus,Silver,2008,5
+Belarus,Silver,2012,5
+Belarus,Bronze,1996,8
+Belarus,Bronze,2000,11
+Belarus,Bronze,2004,6
+Belarus,Bronze,2008,9
+Belarus,Bronze,2012,5
+Belgium,Total,1900,15
+Belgium,Total,1908,8
+Belgium,Total,1912,6
+Belgium,Total,1920,36
+Belgium,Total,1924,13
+Belgium,Total,1928,3
+Belgium,Total,1936,2
+Belgium,Total,1948,7
+Belgium,Total,1952,4
+Belgium,Total,1956,2
+Belgium,Total,1960,4
+Belgium,Total,1964,3
+Belgium,Total,1968,2
+Belgium,Total,1972,2
+Belgium,Total,1976,6
+Belgium,Total,1980,1
+Belgium,Total,1984,4
+Belgium,Total,1988,2
+Belgium,Total,1992,3
+Belgium,Total,1996,6
+Belgium,Total,2000,5
+Belgium,Total,2004,3
+Belgium,Total,2008,2
+Belgium,Total,2012,3
+Belgium,Total,2016,2
+Belgium,Gold,1900,5
+Belgium,Gold,1908,1
+Belgium,Gold,1912,2
+Belgium,Gold,1920,14
+Belgium,Gold,1924,3
+Belgium,Gold,1928,0
+Belgium,Gold,1936,0
+Belgium,Gold,1948,2
+Belgium,Gold,1952,2
+Belgium,Gold,1956,0
+Belgium,Gold,1960,0
+Belgium,Gold,1964,2
+Belgium,Gold,1968,0
+Belgium,Gold,1972,0
+Belgium,Gold,1976,0
+Belgium,Gold,1980,1
+Belgium,Gold,1984,1
+Belgium,Gold,1988,0
+Belgium,Gold,1992,0
+Belgium,Gold,1996,2
+Belgium,Gold,2000,0
+Belgium,Gold,2004,1
+Belgium,Gold,2008,1
+Belgium,Gold,2012,0
+Belgium,Gold,2016,1
+Belgium,Silver,1900,5
+Belgium,Silver,1908,5
+Belgium,Silver,1912,1
+Belgium,Silver,1920,11
+Belgium,Silver,1924,7
+Belgium,Silver,1928,1
+Belgium,Silver,1936,0
+Belgium,Silver,1948,2
+Belgium,Silver,1952,2
+Belgium,Silver,1956,2
+Belgium,Silver,1960,2
+Belgium,Silver,1964,0
+Belgium,Silver,1968,1
+Belgium,Silver,1972,2
+Belgium,Silver,1976,3
+Belgium,Silver,1980,0
+Belgium,Silver,1984,1
+Belgium,Silver,1988,0
+Belgium,Silver,1992,1
+Belgium,Silver,1996,2
+Belgium,Silver,2000,2
+Belgium,Silver,2004,0
+Belgium,Silver,2008,1
+Belgium,Silver,2012,1
+Belgium,Silver,2016,0
+Belgium,Bronze,1900,5
+Belgium,Bronze,1908,2
+Belgium,Bronze,1912,3
+Belgium,Bronze,1920,11
+Belgium,Bronze,1924,3
+Belgium,Bronze,1928,2
+Belgium,Bronze,1936,2
+Belgium,Bronze,1948,3
+Belgium,Bronze,1952,0
+Belgium,Bronze,1956,0
+Belgium,Bronze,1960,2
+Belgium,Bronze,1964,1
+Belgium,Bronze,1968,1
+Belgium,Bronze,1972,0
+Belgium,Bronze,1976,3
+Belgium,Bronze,1980,0
+Belgium,Bronze,1984,2
+Belgium,Bronze,1988,2
+Belgium,Bronze,1992,2
+Belgium,Bronze,1996,2
+Belgium,Bronze,2000,3
+Belgium,Bronze,2004,2
+Belgium,Bronze,2008,0
+Belgium,Bronze,2012,2
+Belgium,Bronze,2016,1
+Bermuda,Total,1976,1
+Bermuda,Gold,1976,0
+Bermuda,Silver,1976,0
+Bermuda,Bronze,1976,1
+Bohemia,Total,1900,2
+Bohemia,Total,1908,2
+Bohemia,Gold,1900,0
+Bohemia,Gold,1908,0
+Bohemia,Silver,1900,1
+Bohemia,Silver,1908,0
+Bohemia,Bronze,1900,1
+Bohemia,Bronze,1908,2
+Botswana,Total,2012,1
+Botswana,Gold,2012,0
+Botswana,Silver,2012,1
+Botswana,Bronze,2012,0
+Brazil,Total,1920,3
+Brazil,Total,1948,1
+Brazil,Total,1952,3
+Brazil,Total,1956,1
+Brazil,Total,1960,2
+Brazil,Total,1964,1
+Brazil,Total,1968,3
+Brazil,Total,1972,2
+Brazil,Total,1976,2
+Brazil,Total,1980,4
+Brazil,Total,1984,8
+Brazil,Total,1988,6
+Brazil,Total,1992,3
+Brazil,Total,1996,15
+Brazil,Total,2000,12
+Brazil,Total,2004,10
+Brazil,Total,2008,15
+Brazil,Total,2012,17
+Brazil,Total,2016,2
+Brazil,Gold,1920,1
+Brazil,Gold,1948,0
+Brazil,Gold,1952,1
+Brazil,Gold,1956,1
+Brazil,Gold,1960,0
+Brazil,Gold,1964,0
+Brazil,Gold,1968,0
+Brazil,Gold,1972,0
+Brazil,Gold,1976,0
+Brazil,Gold,1980,2
+Brazil,Gold,1984,1
+Brazil,Gold,1988,1
+Brazil,Gold,1992,2
+Brazil,Gold,1996,3
+Brazil,Gold,2000,0
+Brazil,Gold,2004,5
+Brazil,Gold,2008,3
+Brazil,Gold,2012,3
+Brazil,Gold,2016,1
+Brazil,Silver,1920,1
+Brazil,Silver,1948,0
+Brazil,Silver,1952,0
+Brazil,Silver,1956,0
+Brazil,Silver,1960,0
+Brazil,Silver,1964,0
+Brazil,Silver,1968,1
+Brazil,Silver,1972,0
+Brazil,Silver,1976,0
+Brazil,Silver,1980,0
+Brazil,Silver,1984,5
+Brazil,Silver,1988,2
+Brazil,Silver,1992,1
+Brazil,Silver,1996,3
+Brazil,Silver,2000,6
+Brazil,Silver,2004,2
+Brazil,Silver,2008,4
+Brazil,Silver,2012,5
+Brazil,Silver,2016,1
+Brazil,Bronze,1920,1
+Brazil,Bronze,1948,1
+Brazil,Bronze,1952,2
+Brazil,Bronze,1956,0
+Brazil,Bronze,1960,2
+Brazil,Bronze,1964,1
+Brazil,Bronze,1968,2
+Brazil,Bronze,1972,2
+Brazil,Bronze,1976,2
+Brazil,Bronze,1980,2
+Brazil,Bronze,1984,2
+Brazil,Bronze,1988,3
+Brazil,Bronze,1992,0
+Brazil,Bronze,1996,9
+Brazil,Bronze,2000,6
+Brazil,Bronze,2004,3
+Brazil,Bronze,2008,8
+Brazil,Bronze,2012,9
+Brazil,Bronze,2016,0
+British West Indies,Total,1960,2
+British West Indies,Gold,1960,0
+British West Indies,Silver,1960,0
+British West Indies,Bronze,1960,2
+Bulgaria,Total,1952,1
+Bulgaria,Total,1956,5
+Bulgaria,Total,1960,7
+Bulgaria,Total,1964,10
+Bulgaria,Total,1968,9
+Bulgaria,Total,1972,21
+Bulgaria,Total,1976,22
+Bulgaria,Total,1980,41
+Bulgaria,Total,1988,35
+Bulgaria,Total,1992,16
+Bulgaria,Total,1996,15
+Bulgaria,Total,2000,13
+Bulgaria,Total,2004,12
+Bulgaria,Total,2008,5
+Bulgaria,Total,2012,2
+Bulgaria,Gold,1952,0
+Bulgaria,Gold,1956,1
+Bulgaria,Gold,1960,1
+Bulgaria,Gold,1964,3
+Bulgaria,Gold,1968,2
+Bulgaria,Gold,1972,6
+Bulgaria,Gold,1976,6
+Bulgaria,Gold,1980,8
+Bulgaria,Gold,1988,10
+Bulgaria,Gold,1992,3
+Bulgaria,Gold,1996,3
+Bulgaria,Gold,2000,5
+Bulgaria,Gold,2004,2
+Bulgaria,Gold,2008,1
+Bulgaria,Gold,2012,0
+Bulgaria,Silver,1952,0
+Bulgaria,Silver,1956,3
+Bulgaria,Silver,1960,3
+Bulgaria,Silver,1964,5
+Bulgaria,Silver,1968,4
+Bulgaria,Silver,1972,10
+Bulgaria,Silver,1976,9
+Bulgaria,Silver,1980,16
+Bulgaria,Silver,1988,12
+Bulgaria,Silver,1992,7
+Bulgaria,Silver,1996,7
+Bulgaria,Silver,2000,6
+Bulgaria,Silver,2004,1
+Bulgaria,Silver,2008,1
+Bulgaria,Silver,2012,1
+Bulgaria,Bronze,1952,1
+Bulgaria,Bronze,1956,1
+Bulgaria,Bronze,1960,3
+Bulgaria,Bronze,1964,2
+Bulgaria,Bronze,1968,3
+Bulgaria,Bronze,1972,5
+Bulgaria,Bronze,1976,7
+Bulgaria,Bronze,1980,17
+Bulgaria,Bronze,1988,13
+Bulgaria,Bronze,1992,6
+Bulgaria,Bronze,1996,5
+Bulgaria,Bronze,2000,2
+Bulgaria,Bronze,2004,9
+Bulgaria,Bronze,2008,3
+Bulgaria,Bronze,2012,1
+Burundi,Total,1996,1
+Burundi,Gold,1996,1
+Burundi,Silver,1996,0
+Burundi,Bronze,1996,0
+Cameroon,Total,1968,1
+Cameroon,Total,1984,1
+Cameroon,Total,2000,1
+Cameroon,Total,2004,1
+Cameroon,Total,2008,1
+Cameroon,Gold,1968,0
+Cameroon,Gold,1984,0
+Cameroon,Gold,2000,1
+Cameroon,Gold,2004,1
+Cameroon,Gold,2008,1
+Cameroon,Silver,1968,1
+Cameroon,Silver,1984,0
+Cameroon,Silver,2000,0
+Cameroon,Silver,2004,0
+Cameroon,Silver,2008,0
+Cameroon,Bronze,1968,0
+Cameroon,Bronze,1984,1
+Cameroon,Bronze,2000,0
+Cameroon,Bronze,2004,0
+Cameroon,Bronze,2008,0
+Canada,Total,1900,2
+Canada,Total,1904,6
+Canada,Total,1908,16
+Canada,Total,1912,8
+Canada,Total,1920,9
+Canada,Total,1924,4
+Canada,Total,1928,15
+Canada,Total,1932,15
+Canada,Total,1936,9
+Canada,Total,1948,3
+Canada,Total,1952,3
+Canada,Total,1956,6
+Canada,Total,1960,1
+Canada,Total,1964,4
+Canada,Total,1968,5
+Canada,Total,1972,5
+Canada,Total,1976,11
+Canada,Total,1984,44
+Canada,Total,1988,10
+Canada,Total,1992,18
+Canada,Total,1996,22
+Canada,Total,2000,14
+Canada,Total,2004,12
+Canada,Total,2008,19
+Canada,Total,2012,18
+Canada,Total,2016,5
+Canada,Gold,1900,1
+Canada,Gold,1904,4
+Canada,Gold,1908,3
+Canada,Gold,1912,3
+Canada,Gold,1920,3
+Canada,Gold,1924,0
+Canada,Gold,1928,4
+Canada,Gold,1932,2
+Canada,Gold,1936,1
+Canada,Gold,1948,0
+Canada,Gold,1952,1
+Canada,Gold,1956,2
+Canada,Gold,1960,0
+Canada,Gold,1964,1
+Canada,Gold,1968,1
+Canada,Gold,1972,0
+Canada,Gold,1976,0
+Canada,Gold,1984,10
+Canada,Gold,1988,3
+Canada,Gold,1992,7
+Canada,Gold,1996,3
+Canada,Gold,2000,3
+Canada,Gold,2004,3
+Canada,Gold,2008,3
+Canada,Gold,2012,1
+Canada,Gold,2016,0
+Canada,Silver,1900,0
+Canada,Silver,1904,1
+Canada,Silver,1908,3
+Canada,Silver,1912,2
+Canada,Silver,1920,3
+Canada,Silver,1924,3
+Canada,Silver,1928,4
+Canada,Silver,1932,5
+Canada,Silver,1936,3
+Canada,Silver,1948,1
+Canada,Silver,1952,2
+Canada,Silver,1956,1
+Canada,Silver,1960,1
+Canada,Silver,1964,2
+Canada,Silver,1968,3
+Canada,Silver,1972,2
+Canada,Silver,1976,5
+Canada,Silver,1984,18
+Canada,Silver,1988,2
+Canada,Silver,1992,4
+Canada,Silver,1996,11
+Canada,Silver,2000,3
+Canada,Silver,2004,6
+Canada,Silver,2008,9
+Canada,Silver,2012,5
+Canada,Silver,2016,1
+Canada,Bronze,1900,1
+Canada,Bronze,1904,1
+Canada,Bronze,1908,10
+Canada,Bronze,1912,3
+Canada,Bronze,1920,3
+Canada,Bronze,1924,1
+Canada,Bronze,1928,7
+Canada,Bronze,1932,8
+Canada,Bronze,1936,5
+Canada,Bronze,1948,2
+Canada,Bronze,1952,0
+Canada,Bronze,1956,3
+Canada,Bronze,1960,0
+Canada,Bronze,1964,1
+Canada,Bronze,1968,1
+Canada,Bronze,1972,3
+Canada,Bronze,1976,6
+Canada,Bronze,1984,16
+Canada,Bronze,1988,5
+Canada,Bronze,1992,7
+Canada,Bronze,1996,8
+Canada,Bronze,2000,8
+Canada,Bronze,2004,3
+Canada,Bronze,2008,7
+Canada,Bronze,2012,12
+Canada,Bronze,2016,4
+Ceylon,Total,1948,1
+Ceylon,Gold,1948,0
+Ceylon,Silver,1948,1
+Ceylon,Bronze,1948,0
+Chile,Total,1928,1
+Chile,Total,1952,2
+Chile,Total,1956,4
+Chile,Total,1988,1
+Chile,Total,2000,1
+Chile,Total,2004,3
+Chile,Total,2008,1
+Chile,Gold,1928,0
+Chile,Gold,1952,0
+Chile,Gold,1956,0
+Chile,Gold,1988,0
+Chile,Gold,2000,0
+Chile,Gold,2004,2
+Chile,Gold,2008,0
+Chile,Silver,1928,1
+Chile,Silver,1952,2
+Chile,Silver,1956,2
+Chile,Silver,1988,1
+Chile,Silver,2000,0
+Chile,Silver,2004,0
+Chile,Silver,2008,1
+Chile,Bronze,1928,0
+Chile,Bronze,1952,0
+Chile,Bronze,1956,2
+Chile,Bronze,1988,0
+Chile,Bronze,2000,1
+Chile,Bronze,2004,1
+Chile,Bronze,2008,0
+China,Total,1984,32
+China,Total,1988,28
+China,Total,1992,54
+China,Total,1996,50
+China,Total,2000,58
+China,Total,2004,63
+China,Total,2008,100
+China,Total,2012,88
+China,Total,2016,17
+China,Gold,1984,15
+China,Gold,1988,5
+China,Gold,1992,16
+China,Gold,1996,16
+China,Gold,2000,28
+China,Gold,2004,32
+China,Gold,2008,51
+China,Gold,2012,38
+China,Gold,2016,8
+China,Silver,1984,8
+China,Silver,1988,11
+China,Silver,1992,22
+China,Silver,1996,22
+China,Silver,2000,16
+China,Silver,2004,17
+China,Silver,2008,21
+China,Silver,2012,29
+China,Silver,2016,3
+China,Bronze,1984,9
+China,Bronze,1988,12
+China,Bronze,1992,16
+China,Bronze,1996,12
+China,Bronze,2000,14
+China,Bronze,2004,14
+China,Bronze,2008,28
+China,Bronze,2012,21
+China,Bronze,2016,6
+Chinese Taipei,Total,1984,1
+Chinese Taipei,Total,1992,1
+Chinese Taipei,Total,1996,1
+Chinese Taipei,Total,2000,5
+Chinese Taipei,Total,2004,5
+Chinese Taipei,Total,2008,4
+Chinese Taipei,Total,2012,2
+Chinese Taipei,Total,2016,3
+Chinese Taipei,Gold,1984,0
+Chinese Taipei,Gold,1992,0
+Chinese Taipei,Gold,1996,0
+Chinese Taipei,Gold,2000,0
+Chinese Taipei,Gold,2004,2
+Chinese Taipei,Gold,2008,0
+Chinese Taipei,Gold,2012,0
+Chinese Taipei,Gold,2016,1
+Chinese Taipei,Silver,1984,0
+Chinese Taipei,Silver,1992,1
+Chinese Taipei,Silver,1996,1
+Chinese Taipei,Silver,2000,1
+Chinese Taipei,Silver,2004,2
+Chinese Taipei,Silver,2008,0
+Chinese Taipei,Silver,2012,1
+Chinese Taipei,Silver,2016,0
+Chinese Taipei,Bronze,1984,1
+Chinese Taipei,Bronze,1992,0
+Chinese Taipei,Bronze,1996,0
+Chinese Taipei,Bronze,2000,4
+Chinese Taipei,Bronze,2004,1
+Chinese Taipei,Bronze,2008,4
+Chinese Taipei,Bronze,2012,1
+Chinese Taipei,Bronze,2016,2
+Colombia,Total,1972,3
+Colombia,Total,1984,1
+Colombia,Total,1988,1
+Colombia,Total,1992,1
+Colombia,Total,2000,1
+Colombia,Total,2004,2
+Colombia,Total,2008,2
+Colombia,Total,2012,8
+Colombia,Total,2016,1
+Colombia,Gold,1972,0
+Colombia,Gold,1984,0
+Colombia,Gold,1988,0
+Colombia,Gold,1992,0
+Colombia,Gold,2000,1
+Colombia,Gold,2004,0
+Colombia,Gold,2008,0
+Colombia,Gold,2012,1
+Colombia,Gold,2016,1
+Colombia,Silver,1972,1
+Colombia,Silver,1984,1
+Colombia,Silver,1988,0
+Colombia,Silver,1992,0
+Colombia,Silver,2000,0
+Colombia,Silver,2004,0
+Colombia,Silver,2008,1
+Colombia,Silver,2012,3
+Colombia,Silver,2016,0
+Colombia,Bronze,1972,2
+Colombia,Bronze,1984,0
+Colombia,Bronze,1988,1
+Colombia,Bronze,1992,1
+Colombia,Bronze,2000,0
+Colombia,Bronze,2004,2
+Colombia,Bronze,2008,1
+Colombia,Bronze,2012,4
+Colombia,Bronze,2016,0
+Costa Rica,Total,1988,1
+Costa Rica,Total,1996,1
+Costa Rica,Total,2000,2
+Costa Rica,Gold,1988,0
+Costa Rica,Gold,1996,1
+Costa Rica,Gold,2000,0
+Costa Rica,Silver,1988,1
+Costa Rica,Silver,1996,0
+Costa Rica,Silver,2000,0
+Costa Rica,Bronze,1988,0
+Costa Rica,Bronze,1996,0
+Costa Rica,Bronze,2000,2
+Croatia,Total,1992,3
+Croatia,Total,1996,2
+Croatia,Total,2000,2
+Croatia,Total,2004,5
+Croatia,Total,2008,5
+Croatia,Total,2012,6
+Croatia,Total,2016,1
+Croatia,Gold,1992,0
+Croatia,Gold,1996,1
+Croatia,Gold,2000,1
+Croatia,Gold,2004,1
+Croatia,Gold,2008,0
+Croatia,Gold,2012,3
+Croatia,Gold,2016,1
+Croatia,Silver,1992,1
+Croatia,Silver,1996,1
+Croatia,Silver,2000,0
+Croatia,Silver,2004,2
+Croatia,Silver,2008,2
+Croatia,Silver,2012,1
+Croatia,Silver,2016,0
+Croatia,Bronze,1992,2
+Croatia,Bronze,1996,0
+Croatia,Bronze,2000,1
+Croatia,Bronze,2004,2
+Croatia,Bronze,2008,3
+Croatia,Bronze,2012,2
+Croatia,Bronze,2016,0
+Cuba,Total,1900,2
+Cuba,Total,1904,9
+Cuba,Total,1948,1
+Cuba,Total,1964,1
+Cuba,Total,1968,4
+Cuba,Total,1972,8
+Cuba,Total,1976,13
+Cuba,Total,1980,20
+Cuba,Total,1992,31
+Cuba,Total,1996,25
+Cuba,Total,2000,29
+Cuba,Total,2004,27
+Cuba,Total,2008,24
+Cuba,Total,2012,15
+Cuba,Gold,1900,1
+Cuba,Gold,1904,4
+Cuba,Gold,1948,0
+Cuba,Gold,1964,0
+Cuba,Gold,1968,0
+Cuba,Gold,1972,3
+Cuba,Gold,1976,6
+Cuba,Gold,1980,8
+Cuba,Gold,1992,14
+Cuba,Gold,1996,9
+Cuba,Gold,2000,11
+Cuba,Gold,2004,9
+Cuba,Gold,2008,2
+Cuba,Gold,2012,5
+Cuba,Silver,1900,1
+Cuba,Silver,1904,2
+Cuba,Silver,1948,1
+Cuba,Silver,1964,1
+Cuba,Silver,1968,4
+Cuba,Silver,1972,1
+Cuba,Silver,1976,4
+Cuba,Silver,1980,7
+Cuba,Silver,1992,6
+Cuba,Silver,1996,8
+Cuba,Silver,2000,11
+Cuba,Silver,2004,7
+Cuba,Silver,2008,11
+Cuba,Silver,2012,3
+Cuba,Bronze,1900,0
+Cuba,Bronze,1904,3
+Cuba,Bronze,1948,0
+Cuba,Bronze,1964,0
+Cuba,Bronze,1968,0
+Cuba,Bronze,1972,4
+Cuba,Bronze,1976,3
+Cuba,Bronze,1980,5
+Cuba,Bronze,1992,11
+Cuba,Bronze,1996,8
+Cuba,Bronze,2000,7
+Cuba,Bronze,2004,11
+Cuba,Bronze,2008,11
+Cuba,Bronze,2012,7
+Cyprus,Total,2012,1
+Cyprus,Gold,2012,0
+Cyprus,Silver,2012,1
+Cyprus,Bronze,2012,0
+Czech Republic,Total,1996,11
+Czech Republic,Total,2000,8
+Czech Republic,Total,2004,9
+Czech Republic,Total,2008,6
+Czech Republic,Total,2012,11
+Czech Republic,Gold,1996,4
+Czech Republic,Gold,2000,2
+Czech Republic,Gold,2004,1
+Czech Republic,Gold,2008,3
+Czech Republic,Gold,2012,4
+Czech Republic,Silver,1996,3
+Czech Republic,Silver,2000,3
+Czech Republic,Silver,2004,3
+Czech Republic,Silver,2008,3
+Czech Republic,Silver,2012,3
+Czech Republic,Bronze,1996,4
+Czech Republic,Bronze,2000,3
+Czech Republic,Bronze,2004,5
+Czech Republic,Bronze,2008,0
+Czech Republic,Bronze,2012,4
+Czechoslovakia,Total,1920,2
+Czechoslovakia,Total,1924,10
+Czechoslovakia,Total,1928,9
+Czechoslovakia,Total,1932,4
+Czechoslovakia,Total,1936,8
+Czechoslovakia,Total,1948,11
+Czechoslovakia,Total,1952,13
+Czechoslovakia,Total,1956,6
+Czechoslovakia,Total,1960,8
+Czechoslovakia,Total,1964,14
+Czechoslovakia,Total,1968,13
+Czechoslovakia,Total,1972,8
+Czechoslovakia,Total,1976,8
+Czechoslovakia,Total,1980,14
+Czechoslovakia,Total,1988,8
+Czechoslovakia,Total,1992,7
+Czechoslovakia,Gold,1920,0
+Czechoslovakia,Gold,1924,1
+Czechoslovakia,Gold,1928,2
+Czechoslovakia,Gold,1932,1
+Czechoslovakia,Gold,1936,3
+Czechoslovakia,Gold,1948,6
+Czechoslovakia,Gold,1952,7
+Czechoslovakia,Gold,1956,1
+Czechoslovakia,Gold,1960,3
+Czechoslovakia,Gold,1964,5
+Czechoslovakia,Gold,1968,7
+Czechoslovakia,Gold,1972,2
+Czechoslovakia,Gold,1976,2
+Czechoslovakia,Gold,1980,2
+Czechoslovakia,Gold,1988,3
+Czechoslovakia,Gold,1992,4
+Czechoslovakia,Silver,1920,0
+Czechoslovakia,Silver,1924,4
+Czechoslovakia,Silver,1928,5
+Czechoslovakia,Silver,1932,2
+Czechoslovakia,Silver,1936,5
+Czechoslovakia,Silver,1948,2
+Czechoslovakia,Silver,1952,3
+Czechoslovakia,Silver,1956,4
+Czechoslovakia,Silver,1960,2
+Czechoslovakia,Silver,1964,6
+Czechoslovakia,Silver,1968,2
+Czechoslovakia,Silver,1972,4
+Czechoslovakia,Silver,1976,2
+Czechoslovakia,Silver,1980,3
+Czechoslovakia,Silver,1988,3
+Czechoslovakia,Silver,1992,2
+Czechoslovakia,Bronze,1920,2
+Czechoslovakia,Bronze,1924,5
+Czechoslovakia,Bronze,1928,2
+Czechoslovakia,Bronze,1932,1
+Czechoslovakia,Bronze,1936,0
+Czechoslovakia,Bronze,1948,3
+Czechoslovakia,Bronze,1952,3
+Czechoslovakia,Bronze,1956,1
+Czechoslovakia,Bronze,1960,3
+Czechoslovakia,Bronze,1964,3
+Czechoslovakia,Bronze,1968,4
+Czechoslovakia,Bronze,1972,2
+Czechoslovakia,Bronze,1976,4
+Czechoslovakia,Bronze,1980,9
+Czechoslovakia,Bronze,1988,2
+Czechoslovakia,Bronze,1992,1
+Denmark,Total,1896,6
+Denmark,Total,1900,6
+Denmark,Total,1908,5
+Denmark,Total,1912,12
+Denmark,Total,1920,13
+Denmark,Total,1924,9
+Denmark,Total,1928,6
+Denmark,Total,1932,6
+Denmark,Total,1936,5
+Denmark,Total,1948,20
+Denmark,Total,1952,6
+Denmark,Total,1956,4
+Denmark,Total,1960,6
+Denmark,Total,1964,6
+Denmark,Total,1968,8
+Denmark,Total,1972,1
+Denmark,Total,1976,3
+Denmark,Total,1980,5
+Denmark,Total,1984,6
+Denmark,Total,1988,4
+Denmark,Total,1992,6
+Denmark,Total,1996,6
+Denmark,Total,2000,6
+Denmark,Total,2004,8
+Denmark,Total,2008,7
+Denmark,Total,2012,9
+Denmark,Total,2016,1
+Denmark,Gold,1896,1
+Denmark,Gold,1900,1
+Denmark,Gold,1908,0
+Denmark,Gold,1912,1
+Denmark,Gold,1920,3
+Denmark,Gold,1924,2
+Denmark,Gold,1928,3
+Denmark,Gold,1932,0
+Denmark,Gold,1936,0
+Denmark,Gold,1948,5
+Denmark,Gold,1952,2
+Denmark,Gold,1956,1
+Denmark,Gold,1960,2
+Denmark,Gold,1964,2
+Denmark,Gold,1968,1
+Denmark,Gold,1972,1
+Denmark,Gold,1976,1
+Denmark,Gold,1980,2
+Denmark,Gold,1984,0
+Denmark,Gold,1988,2
+Denmark,Gold,1992,1
+Denmark,Gold,1996,4
+Denmark,Gold,2000,2
+Denmark,Gold,2004,2
+Denmark,Gold,2008,2
+Denmark,Gold,2012,2
+Denmark,Gold,2016,0
+Denmark,Silver,1896,2
+Denmark,Silver,1900,3
+Denmark,Silver,1908,2
+Denmark,Silver,1912,6
+Denmark,Silver,1920,9
+Denmark,Silver,1924,5
+Denmark,Silver,1928,1
+Denmark,Silver,1932,3
+Denmark,Silver,1936,2
+Denmark,Silver,1948,7
+Denmark,Silver,1952,1
+Denmark,Silver,1956,2
+Denmark,Silver,1960,3
+Denmark,Silver,1964,1
+Denmark,Silver,1968,4
+Denmark,Silver,1972,0
+Denmark,Silver,1976,0
+Denmark,Silver,1980,1
+Denmark,Silver,1984,3
+Denmark,Silver,1988,1
+Denmark,Silver,1992,1
+Denmark,Silver,1996,1
+Denmark,Silver,2000,3
+Denmark,Silver,2004,1
+Denmark,Silver,2008,2
+Denmark,Silver,2012,4
+Denmark,Silver,2016,1
+Denmark,Bronze,1896,3
+Denmark,Bronze,1900,2
+Denmark,Bronze,1908,3
+Denmark,Bronze,1912,5
+Denmark,Bronze,1920,1
+Denmark,Bronze,1924,2
+Denmark,Bronze,1928,2
+Denmark,Bronze,1932,3
+Denmark,Bronze,1936,3
+Denmark,Bronze,1948,8
+Denmark,Bronze,1952,3
+Denmark,Bronze,1956,1
+Denmark,Bronze,1960,1
+Denmark,Bronze,1964,3
+Denmark,Bronze,1968,3
+Denmark,Bronze,1972,0
+Denmark,Bronze,1976,2
+Denmark,Bronze,1980,2
+Denmark,Bronze,1984,3
+Denmark,Bronze,1988,1
+Denmark,Bronze,1992,4
+Denmark,Bronze,1996,1
+Denmark,Bronze,2000,1
+Denmark,Bronze,2004,5
+Denmark,Bronze,2008,3
+Denmark,Bronze,2012,3
+Denmark,Bronze,2016,0
+Djibouti,Total,1988,1
+Djibouti,Gold,1988,0
+Djibouti,Silver,1988,0
+Djibouti,Bronze,1988,1
+Dominican Republic,Total,1984,1
+Dominican Republic,Total,2004,1
+Dominican Republic,Total,2008,2
+Dominican Republic,Total,2012,2
+Dominican Republic,Gold,1984,0
+Dominican Republic,Gold,2004,1
+Dominican Republic,Gold,2008,1
+Dominican Republic,Gold,2012,1
+Dominican Republic,Silver,1984,0
+Dominican Republic,Silver,2004,0
+Dominican Republic,Silver,2008,1
+Dominican Republic,Silver,2012,1
+Dominican Republic,Bronze,1984,1
+Dominican Republic,Bronze,2004,0
+Dominican Republic,Bronze,2008,0
+Dominican Republic,Bronze,2012,0
+East Germany,Total,1968,25
+East Germany,Total,1972,66
+East Germany,Total,1976,90
+East Germany,Total,1980,126
+East Germany,Total,1988,102
+East Germany,Gold,1968,9
+East Germany,Gold,1972,20
+East Germany,Gold,1976,40
+East Germany,Gold,1980,47
+East Germany,Gold,1988,37
+East Germany,Silver,1968,9
+East Germany,Silver,1972,23
+East Germany,Silver,1976,25
+East Germany,Silver,1980,37
+East Germany,Silver,1988,35
+East Germany,Bronze,1968,7
+East Germany,Bronze,1972,23
+East Germany,Bronze,1976,25
+East Germany,Bronze,1980,42
+East Germany,Bronze,1988,30
+Ecuador,Total,1996,1
+Ecuador,Total,2008,1
+Ecuador,Gold,1996,1
+Ecuador,Gold,2008,0
+Ecuador,Silver,1996,0
+Ecuador,Silver,2008,1
+Ecuador,Bronze,1996,0
+Ecuador,Bronze,2008,0
+Egypt,Total,1928,4
+Egypt,Total,1936,5
+Egypt,Total,1948,5
+Egypt,Total,1952,1
+Egypt,Total,1984,1
+Egypt,Total,2004,5
+Egypt,Total,2008,1
+Egypt,Total,2012,2
+Egypt,Gold,1928,2
+Egypt,Gold,1936,2
+Egypt,Gold,1948,2
+Egypt,Gold,1952,0
+Egypt,Gold,1984,0
+Egypt,Gold,2004,1
+Egypt,Gold,2008,0
+Egypt,Gold,2012,0
+Egypt,Silver,1928,1
+Egypt,Silver,1936,1
+Egypt,Silver,1948,2
+Egypt,Silver,1952,0
+Egypt,Silver,1984,1
+Egypt,Silver,2004,1
+Egypt,Silver,2008,0
+Egypt,Silver,2012,2
+Egypt,Bronze,1928,1
+Egypt,Bronze,1936,2
+Egypt,Bronze,1948,1
+Egypt,Bronze,1952,1
+Egypt,Bronze,1984,0
+Egypt,Bronze,2004,3
+Egypt,Bronze,2008,1
+Egypt,Bronze,2012,0
+Eritrea,Total,2004,1
+Eritrea,Gold,2004,0
+Eritrea,Silver,2004,0
+Eritrea,Bronze,2004,1
+Estonia,Total,1920,3
+Estonia,Total,1924,6
+Estonia,Total,1928,5
+Estonia,Total,1936,7
+Estonia,Total,1992,2
+Estonia,Total,2000,3
+Estonia,Total,2004,3
+Estonia,Total,2008,2
+Estonia,Total,2012,2
+Estonia,Gold,1920,1
+Estonia,Gold,1924,1
+Estonia,Gold,1928,2
+Estonia,Gold,1936,2
+Estonia,Gold,1992,1
+Estonia,Gold,2000,1
+Estonia,Gold,2004,0
+Estonia,Gold,2008,1
+Estonia,Gold,2012,0
+Estonia,Silver,1920,2
+Estonia,Silver,1924,1
+Estonia,Silver,1928,1
+Estonia,Silver,1936,2
+Estonia,Silver,1992,0
+Estonia,Silver,2000,0
+Estonia,Silver,2004,1
+Estonia,Silver,2008,1
+Estonia,Silver,2012,1
+Estonia,Bronze,1920,0
+Estonia,Bronze,1924,4
+Estonia,Bronze,1928,2
+Estonia,Bronze,1936,3
+Estonia,Bronze,1992,1
+Estonia,Bronze,2000,2
+Estonia,Bronze,2004,2
+Estonia,Bronze,2008,0
+Estonia,Bronze,2012,1
+Ethiopia,Total,1960,1
+Ethiopia,Total,1964,1
+Ethiopia,Total,1968,2
+Ethiopia,Total,1972,2
+Ethiopia,Total,1980,4
+Ethiopia,Total,1992,3
+Ethiopia,Total,1996,3
+Ethiopia,Total,2000,8
+Ethiopia,Total,2004,7
+Ethiopia,Total,2008,7
+Ethiopia,Total,2012,7
+Ethiopia,Gold,1960,1
+Ethiopia,Gold,1964,1
+Ethiopia,Gold,1968,1
+Ethiopia,Gold,1972,0
+Ethiopia,Gold,1980,2
+Ethiopia,Gold,1992,1
+Ethiopia,Gold,1996,2
+Ethiopia,Gold,2000,4
+Ethiopia,Gold,2004,2
+Ethiopia,Gold,2008,4
+Ethiopia,Gold,2012,3
+Ethiopia,Silver,1960,0
+Ethiopia,Silver,1964,0
+Ethiopia,Silver,1968,1
+Ethiopia,Silver,1972,0
+Ethiopia,Silver,1980,0
+Ethiopia,Silver,1992,0
+Ethiopia,Silver,1996,0
+Ethiopia,Silver,2000,1
+Ethiopia,Silver,2004,3
+Ethiopia,Silver,2008,1
+Ethiopia,Silver,2012,1
+Ethiopia,Bronze,1960,0
+Ethiopia,Bronze,1964,0
+Ethiopia,Bronze,1968,0
+Ethiopia,Bronze,1972,2
+Ethiopia,Bronze,1980,2
+Ethiopia,Bronze,1992,2
+Ethiopia,Bronze,1996,1
+Ethiopia,Bronze,2000,3
+Ethiopia,Bronze,2004,2
+Ethiopia,Bronze,2008,2
+Ethiopia,Bronze,2012,3
+Finland,Total,1908,5
+Finland,Total,1912,26
+Finland,Total,1920,34
+Finland,Total,1924,37
+Finland,Total,1928,25
+Finland,Total,1932,25
+Finland,Total,1936,19
+Finland,Total,1948,20
+Finland,Total,1952,22
+Finland,Total,1956,15
+Finland,Total,1960,5
+Finland,Total,1964,5
+Finland,Total,1968,4
+Finland,Total,1972,8
+Finland,Total,1976,6
+Finland,Total,1980,8
+Finland,Total,1984,12
+Finland,Total,1988,4
+Finland,Total,1992,5
+Finland,Total,1996,4
+Finland,Total,2000,4
+Finland,Total,2004,2
+Finland,Total,2008,4
+Finland,Total,2012,3
+Finland,Gold,1908,1
+Finland,Gold,1912,9
+Finland,Gold,1920,15
+Finland,Gold,1924,14
+Finland,Gold,1928,8
+Finland,Gold,1932,5
+Finland,Gold,1936,7
+Finland,Gold,1948,8
+Finland,Gold,1952,6
+Finland,Gold,1956,3
+Finland,Gold,1960,1
+Finland,Gold,1964,3
+Finland,Gold,1968,1
+Finland,Gold,1972,3
+Finland,Gold,1976,4
+Finland,Gold,1980,3
+Finland,Gold,1984,4
+Finland,Gold,1988,1
+Finland,Gold,1992,1
+Finland,Gold,1996,1
+Finland,Gold,2000,2
+Finland,Gold,2004,0
+Finland,Gold,2008,1
+Finland,Gold,2012,0
+Finland,Silver,1908,1
+Finland,Silver,1912,8
+Finland,Silver,1920,10
+Finland,Silver,1924,13
+Finland,Silver,1928,8
+Finland,Silver,1932,8
+Finland,Silver,1936,6
+Finland,Silver,1948,7
+Finland,Silver,1952,3
+Finland,Silver,1956,1
+Finland,Silver,1960,1
+Finland,Silver,1964,0
+Finland,Silver,1968,2
+Finland,Silver,1972,1
+Finland,Silver,1976,2
+Finland,Silver,1980,1
+Finland,Silver,1984,2
+Finland,Silver,1988,1
+Finland,Silver,1992,2
+Finland,Silver,1996,2
+Finland,Silver,2000,1
+Finland,Silver,2004,2
+Finland,Silver,2008,1
+Finland,Silver,2012,2
+Finland,Bronze,1908,3
+Finland,Bronze,1912,9
+Finland,Bronze,1920,9
+Finland,Bronze,1924,10
+Finland,Bronze,1928,9
+Finland,Bronze,1932,12
+Finland,Bronze,1936,6
+Finland,Bronze,1948,5
+Finland,Bronze,1952,13
+Finland,Bronze,1956,11
+Finland,Bronze,1960,3
+Finland,Bronze,1964,2
+Finland,Bronze,1968,1
+Finland,Bronze,1972,4
+Finland,Bronze,1976,0
+Finland,Bronze,1980,4
+Finland,Bronze,1984,6
+Finland,Bronze,1988,2
+Finland,Bronze,1992,2
+Finland,Bronze,1996,1
+Finland,Bronze,2000,1
+Finland,Bronze,2004,0
+Finland,Bronze,2008,2
+Finland,Bronze,2012,1
+France,Total,1896,11
+France,Total,1900,101
+France,Total,1908,19
+France,Total,1912,14
+France,Total,1920,41
+France,Total,1924,38
+France,Total,1928,21
+France,Total,1932,19
+France,Total,1936,19
+France,Total,1948,29
+France,Total,1952,18
+France,Total,1956,14
+France,Total,1960,5
+France,Total,1964,15
+France,Total,1968,15
+France,Total,1972,13
+France,Total,1976,9
+France,Total,1980,14
+France,Total,1984,28
+France,Total,1988,16
+France,Total,1992,29
+France,Total,1996,37
+France,Total,2000,38
+France,Total,2004,33
+France,Total,2008,41
+France,Total,2012,34
+France,Total,2016,6
+France,Gold,1896,5
+France,Gold,1900,26
+France,Gold,1908,5
+France,Gold,1912,7
+France,Gold,1920,9
+France,Gold,1924,13
+France,Gold,1928,6
+France,Gold,1932,10
+France,Gold,1936,7
+France,Gold,1948,10
+France,Gold,1952,6
+France,Gold,1956,4
+France,Gold,1960,0
+France,Gold,1964,1
+France,Gold,1968,7
+France,Gold,1972,2
+France,Gold,1976,2
+France,Gold,1980,6
+France,Gold,1984,5
+France,Gold,1988,6
+France,Gold,1992,8
+France,Gold,1996,15
+France,Gold,2000,13
+France,Gold,2004,11
+France,Gold,2008,7
+France,Gold,2012,11
+France,Gold,2016,2
+France,Silver,1896,4
+France,Silver,1900,41
+France,Silver,1908,5
+France,Silver,1912,4
+France,Silver,1920,19
+France,Silver,1924,15
+France,Silver,1928,10
+France,Silver,1932,5
+France,Silver,1936,6
+France,Silver,1948,6
+France,Silver,1952,6
+France,Silver,1956,4
+France,Silver,1960,2
+France,Silver,1964,8
+France,Silver,1968,3
+France,Silver,1972,4
+France,Silver,1976,3
+France,Silver,1980,5
+France,Silver,1984,7
+France,Silver,1988,4
+France,Silver,1992,5
+France,Silver,1996,7
+France,Silver,2000,14
+France,Silver,2004,9
+France,Silver,2008,16
+France,Silver,2012,11
+France,Silver,2016,3
+France,Bronze,1896,2
+France,Bronze,1900,34
+France,Bronze,1908,9
+France,Bronze,1912,3
+France,Bronze,1920,13
+France,Bronze,1924,10
+France,Bronze,1928,5
+France,Bronze,1932,4
+France,Bronze,1936,6
+France,Bronze,1948,13
+France,Bronze,1952,6
+France,Bronze,1956,6
+France,Bronze,1960,3
+France,Bronze,1964,6
+France,Bronze,1968,5
+France,Bronze,1972,7
+France,Bronze,1976,4
+France,Bronze,1980,3
+France,Bronze,1984,16
+France,Bronze,1988,6
+France,Bronze,1992,16
+France,Bronze,1996,15
+France,Bronze,2000,11
+France,Bronze,2004,13
+France,Bronze,2008,18
+France,Bronze,2012,12
+France,Bronze,2016,1
+Gabon,Total,2012,1
+Gabon,Gold,2012,0
+Gabon,Silver,2012,1
+Gabon,Bronze,2012,0
+Georgia,Total,1996,2
+Georgia,Total,2000,6
+Georgia,Total,2004,4
+Georgia,Total,2008,6
+Georgia,Total,2012,7
+Georgia,Total,2016,1
+Georgia,Gold,1996,0
+Georgia,Gold,2000,0
+Georgia,Gold,2004,2
+Georgia,Gold,2008,3
+Georgia,Gold,2012,1
+Georgia,Gold,2016,0
+Georgia,Silver,1996,0
+Georgia,Silver,2000,0
+Georgia,Silver,2004,2
+Georgia,Silver,2008,0
+Georgia,Silver,2012,3
+Georgia,Silver,2016,0
+Georgia,Bronze,1996,2
+Georgia,Bronze,2000,6
+Georgia,Bronze,2004,0
+Georgia,Bronze,2008,3
+Georgia,Bronze,2012,3
+Georgia,Bronze,2016,1
+Germany,Total,1896,13
+Germany,Total,1900,8
+Germany,Total,1904,13
+Germany,Total,1908,13
+Germany,Total,1912,25
+Germany,Total,1928,31
+Germany,Total,1932,20
+Germany,Total,1936,89
+Germany,Total,1952,24
+Germany,Total,1956,26
+Germany,Total,1960,42
+Germany,Total,1964,50
+Germany,Total,1992,82
+Germany,Total,1996,65
+Germany,Total,2000,56
+Germany,Total,2004,49
+Germany,Total,2008,41
+Germany,Total,2012,44
+Germany,Total,2016,3
+Germany,Gold,1896,6
+Germany,Gold,1900,4
+Germany,Gold,1904,4
+Germany,Gold,1908,3
+Germany,Gold,1912,5
+Germany,Gold,1928,10
+Germany,Gold,1932,3
+Germany,Gold,1936,33
+Germany,Gold,1952,0
+Germany,Gold,1956,6
+Germany,Gold,1960,12
+Germany,Gold,1964,10
+Germany,Gold,1992,33
+Germany,Gold,1996,20
+Germany,Gold,2000,13
+Germany,Gold,2004,13
+Germany,Gold,2008,16
+Germany,Gold,2012,11
+Germany,Gold,2016,1
+Germany,Silver,1896,5
+Germany,Silver,1900,2
+Germany,Silver,1904,4
+Germany,Silver,1908,5
+Germany,Silver,1912,13
+Germany,Silver,1928,7
+Germany,Silver,1932,12
+Germany,Silver,1936,26
+Germany,Silver,1952,7
+Germany,Silver,1956,13
+Germany,Silver,1960,19
+Germany,Silver,1964,22
+Germany,Silver,1992,21
+Germany,Silver,1996,18
+Germany,Silver,2000,17
+Germany,Silver,2004,16
+Germany,Silver,2008,10
+Germany,Silver,2012,19
+Germany,Silver,2016,2
+Germany,Bronze,1896,2
+Germany,Bronze,1900,2
+Germany,Bronze,1904,5
+Germany,Bronze,1908,5
+Germany,Bronze,1912,7
+Germany,Bronze,1928,14
+Germany,Bronze,1932,5
+Germany,Bronze,1936,30
+Germany,Bronze,1952,17
+Germany,Bronze,1956,7
+Germany,Bronze,1960,11
+Germany,Bronze,1964,18
+Germany,Bronze,1992,28
+Germany,Bronze,1996,27
+Germany,Bronze,2000,26
+Germany,Bronze,2004,20
+Germany,Bronze,2008,15
+Germany,Bronze,2012,14
+Germany,Bronze,2016,0
+Ghana,Total,1960,1
+Ghana,Total,1964,1
+Ghana,Total,1972,1
+Ghana,Total,1992,1
+Ghana,Gold,1960,0
+Ghana,Gold,1964,0
+Ghana,Gold,1972,0
+Ghana,Gold,1992,0
+Ghana,Silver,1960,1
+Ghana,Silver,1964,0
+Ghana,Silver,1972,0
+Ghana,Silver,1992,0
+Ghana,Bronze,1960,0
+Ghana,Bronze,1964,1
+Ghana,Bronze,1972,1
+Ghana,Bronze,1992,1
+Great Britain,Total,1896,7
+Great Britain,Total,1900,30
+Great Britain,Total,1904,2
+Great Britain,Total,1908,146
+Great Britain,Total,1912,41
+Great Britain,Total,1920,43
+Great Britain,Total,1924,34
+Great Britain,Total,1928,20
+Great Britain,Total,1932,16
+Great Britain,Total,1936,14
+Great Britain,Total,1948,23
+Great Britain,Total,1952,11
+Great Britain,Total,1956,24
+Great Britain,Total,1960,20
+Great Britain,Total,1964,18
+Great Britain,Total,1968,13
+Great Britain,Total,1972,18
+Great Britain,Total,1976,13
+Great Britain,Total,1980,21
+Great Britain,Total,1984,37
+Great Britain,Total,1988,24
+Great Britain,Total,1992,20
+Great Britain,Total,1996,15
+Great Britain,Total,2000,28
+Great Britain,Total,2004,30
+Great Britain,Total,2008,47
+Great Britain,Total,2012,65
+Great Britain,Total,2016,6
+Great Britain,Gold,1896,2
+Great Britain,Gold,1900,15
+Great Britain,Gold,1904,1
+Great Britain,Gold,1908,56
+Great Britain,Gold,1912,10
+Great Britain,Gold,1920,15
+Great Britain,Gold,1924,9
+Great Britain,Gold,1928,3
+Great Britain,Gold,1932,4
+Great Britain,Gold,1936,4
+Great Britain,Gold,1948,3
+Great Britain,Gold,1952,1
+Great Britain,Gold,1956,6
+Great Britain,Gold,1960,2
+Great Britain,Gold,1964,4
+Great Britain,Gold,1968,5
+Great Britain,Gold,1972,4
+Great Britain,Gold,1976,3
+Great Britain,Gold,1980,5
+Great Britain,Gold,1984,5
+Great Britain,Gold,1988,5
+Great Britain,Gold,1992,5
+Great Britain,Gold,1996,1
+Great Britain,Gold,2000,11
+Great Britain,Gold,2004,9
+Great Britain,Gold,2008,19
+Great Britain,Gold,2012,29
+Great Britain,Gold,2016,1
+Great Britain,Silver,1896,3
+Great Britain,Silver,1900,6
+Great Britain,Silver,1904,1
+Great Britain,Silver,1908,51
+Great Britain,Silver,1912,15
+Great Britain,Silver,1920,15
+Great Britain,Silver,1924,13
+Great Britain,Silver,1928,10
+Great Britain,Silver,1932,7
+Great Britain,Silver,1936,7
+Great Britain,Silver,1948,14
+Great Britain,Silver,1952,2
+Great Britain,Silver,1956,7
+Great Britain,Silver,1960,6
+Great Britain,Silver,1964,12
+Great Britain,Silver,1968,5
+Great Britain,Silver,1972,5
+Great Britain,Silver,1976,5
+Great Britain,Silver,1980,7
+Great Britain,Silver,1984,11
+Great Britain,Silver,1988,10
+Great Britain,Silver,1992,3
+Great Britain,Silver,1996,8
+Great Britain,Silver,2000,10
+Great Britain,Silver,2004,9
+Great Britain,Silver,2008,13
+Great Britain,Silver,2012,17
+Great Britain,Silver,2016,3
+Great Britain,Bronze,1896,2
+Great Britain,Bronze,1900,9
+Great Britain,Bronze,1904,0
+Great Britain,Bronze,1908,39
+Great Britain,Bronze,1912,16
+Great Britain,Bronze,1920,13
+Great Britain,Bronze,1924,12
+Great Britain,Bronze,1928,7
+Great Britain,Bronze,1932,5
+Great Britain,Bronze,1936,3
+Great Britain,Bronze,1948,6
+Great Britain,Bronze,1952,8
+Great Britain,Bronze,1956,11
+Great Britain,Bronze,1960,12
+Great Britain,Bronze,1964,2
+Great Britain,Bronze,1968,3
+Great Britain,Bronze,1972,9
+Great Britain,Bronze,1976,5
+Great Britain,Bronze,1980,9
+Great Britain,Bronze,1984,21
+Great Britain,Bronze,1988,9
+Great Britain,Bronze,1992,12
+Great Britain,Bronze,1996,6
+Great Britain,Bronze,2000,7
+Great Britain,Bronze,2004,12
+Great Britain,Bronze,2008,15
+Great Britain,Bronze,2012,19
+Great Britain,Bronze,2016,2
+Greece,Total,1896,46
+Greece,Total,1904,2
+Greece,Total,1908,4
+Greece,Total,1912,2
+Greece,Total,1920,1
+Greece,Total,1956,1
+Greece,Total,1960,1
+Greece,Total,1968,1
+Greece,Total,1972,2
+Greece,Total,1980,3
+Greece,Total,1984,2
+Greece,Total,1988,1
+Greece,Total,1992,2
+Greece,Total,1996,8
+Greece,Total,2000,13
+Greece,Total,2004,16
+Greece,Total,2008,4
+Greece,Total,2012,2
+Greece,Total,2016,2
+Greece,Gold,1896,10
+Greece,Gold,1904,1
+Greece,Gold,1908,0
+Greece,Gold,1912,1
+Greece,Gold,1920,0
+Greece,Gold,1956,0
+Greece,Gold,1960,1
+Greece,Gold,1968,0
+Greece,Gold,1972,0
+Greece,Gold,1980,1
+Greece,Gold,1984,0
+Greece,Gold,1988,0
+Greece,Gold,1992,2
+Greece,Gold,1996,4
+Greece,Gold,2000,4
+Greece,Gold,2004,6
+Greece,Gold,2008,0
+Greece,Gold,2012,0
+Greece,Gold,2016,1
+Greece,Silver,1896,17
+Greece,Silver,1904,0
+Greece,Silver,1908,3
+Greece,Silver,1912,0
+Greece,Silver,1920,1
+Greece,Silver,1956,0
+Greece,Silver,1960,0
+Greece,Silver,1968,0
+Greece,Silver,1972,2
+Greece,Silver,1980,0
+Greece,Silver,1984,1
+Greece,Silver,1988,0
+Greece,Silver,1992,0
+Greece,Silver,1996,4
+Greece,Silver,2000,6
+Greece,Silver,2004,6
+Greece,Silver,2008,2
+Greece,Silver,2012,0
+Greece,Silver,2016,0
+Greece,Bronze,1896,19
+Greece,Bronze,1904,1
+Greece,Bronze,1908,1
+Greece,Bronze,1912,1
+Greece,Bronze,1920,0
+Greece,Bronze,1956,1
+Greece,Bronze,1960,0
+Greece,Bronze,1968,1
+Greece,Bronze,1972,0
+Greece,Bronze,1980,2
+Greece,Bronze,1984,1
+Greece,Bronze,1988,1
+Greece,Bronze,1992,0
+Greece,Bronze,1996,0
+Greece,Bronze,2000,3
+Greece,Bronze,2004,4
+Greece,Bronze,2008,2
+Greece,Bronze,2012,2
+Greece,Bronze,2016,1
+Grenada,Total,2012,1
+Grenada,Gold,2012,1
+Grenada,Silver,2012,0
+Grenada,Bronze,2012,0
+Guatemala,Total,2012,1
+Guatemala,Gold,2012,0
+Guatemala,Silver,2012,1
+Guatemala,Bronze,2012,0
+Guyana,Total,1980,1
+Guyana,Gold,1980,0
+Guyana,Silver,1980,0
+Guyana,Bronze,1980,1
+Haiti,Total,1924,1
+Haiti,Total,1928,1
+Haiti,Gold,1924,0
+Haiti,Gold,1928,0
+Haiti,Silver,1924,0
+Haiti,Silver,1928,1
+Haiti,Bronze,1924,1
+Haiti,Bronze,1928,0
+Hong Kong,Total,1996,1
+Hong Kong,Total,2004,1
+Hong Kong,Total,2012,1
+Hong Kong,Gold,1996,1
+Hong Kong,Gold,2004,0
+Hong Kong,Gold,2012,0
+Hong Kong,Silver,1996,0
+Hong Kong,Silver,2004,1
+Hong Kong,Silver,2012,0
+Hong Kong,Bronze,1996,0
+Hong Kong,Bronze,2004,0
+Hong Kong,Bronze,2012,1
+Hungary,Total,1896,6
+Hungary,Total,1900,5
+Hungary,Total,1904,4
+Hungary,Total,1908,9
+Hungary,Total,1912,8
+Hungary,Total,1924,9
+Hungary,Total,1928,9
+Hungary,Total,1932,15
+Hungary,Total,1936,16
+Hungary,Total,1948,27
+Hungary,Total,1952,42
+Hungary,Total,1956,26
+Hungary,Total,1960,21
+Hungary,Total,1964,22
+Hungary,Total,1968,32
+Hungary,Total,1972,35
+Hungary,Total,1976,22
+Hungary,Total,1980,32
+Hungary,Total,1988,23
+Hungary,Total,1992,30
+Hungary,Total,1996,21
+Hungary,Total,2000,17
+Hungary,Total,2004,17
+Hungary,Total,2008,10
+Hungary,Total,2012,18
+Hungary,Total,2016,6
+Hungary,Gold,1896,2
+Hungary,Gold,1900,1
+Hungary,Gold,1904,2
+Hungary,Gold,1908,3
+Hungary,Gold,1912,3
+Hungary,Gold,1924,2
+Hungary,Gold,1928,4
+Hungary,Gold,1932,6
+Hungary,Gold,1936,10
+Hungary,Gold,1948,10
+Hungary,Gold,1952,16
+Hungary,Gold,1956,9
+Hungary,Gold,1960,6
+Hungary,Gold,1964,10
+Hungary,Gold,1968,10
+Hungary,Gold,1972,6
+Hungary,Gold,1976,4
+Hungary,Gold,1980,7
+Hungary,Gold,1988,11
+Hungary,Gold,1992,11
+Hungary,Gold,1996,7
+Hungary,Gold,2000,8
+Hungary,Gold,2004,8
+Hungary,Gold,2008,3
+Hungary,Gold,2012,8
+Hungary,Gold,2016,4
+Hungary,Silver,1896,1
+Hungary,Silver,1900,2
+Hungary,Silver,1904,1
+Hungary,Silver,1908,4
+Hungary,Silver,1912,2
+Hungary,Silver,1924,3
+Hungary,Silver,1928,5
+Hungary,Silver,1932,4
+Hungary,Silver,1936,1
+Hungary,Silver,1948,5
+Hungary,Silver,1952,10
+Hungary,Silver,1956,10
+Hungary,Silver,1960,8
+Hungary,Silver,1964,7
+Hungary,Silver,1968,10
+Hungary,Silver,1972,13
+Hungary,Silver,1976,5
+Hungary,Silver,1980,10
+Hungary,Silver,1988,6
+Hungary,Silver,1992,12
+Hungary,Silver,1996,4
+Hungary,Silver,2000,6
+Hungary,Silver,2004,6
+Hungary,Silver,2008,5
+Hungary,Silver,2012,4
+Hungary,Silver,2016,1
+Hungary,Bronze,1896,3
+Hungary,Bronze,1900,2
+Hungary,Bronze,1904,1
+Hungary,Bronze,1908,2
+Hungary,Bronze,1912,3
+Hungary,Bronze,1924,4
+Hungary,Bronze,1928,0
+Hungary,Bronze,1932,5
+Hungary,Bronze,1936,5
+Hungary,Bronze,1948,12
+Hungary,Bronze,1952,16
+Hungary,Bronze,1956,7
+Hungary,Bronze,1960,7
+Hungary,Bronze,1964,5
+Hungary,Bronze,1968,12
+Hungary,Bronze,1972,16
+Hungary,Bronze,1976,13
+Hungary,Bronze,1980,15
+Hungary,Bronze,1988,6
+Hungary,Bronze,1992,7
+Hungary,Bronze,1996,10
+Hungary,Bronze,2000,3
+Hungary,Bronze,2004,3
+Hungary,Bronze,2008,2
+Hungary,Bronze,2012,6
+Hungary,Bronze,2016,1
+Iceland,Total,1956,1
+Iceland,Total,1984,1
+Iceland,Total,2000,1
+Iceland,Total,2008,1
+Iceland,Gold,1956,0
+Iceland,Gold,1984,0
+Iceland,Gold,2000,0
+Iceland,Gold,2008,0
+Iceland,Silver,1956,1
+Iceland,Silver,1984,0
+Iceland,Silver,2000,0
+Iceland,Silver,2008,1
+Iceland,Bronze,1956,0
+Iceland,Bronze,1984,1
+Iceland,Bronze,2000,1
+Iceland,Bronze,2008,0
+Independent Olympic Participants,Total,1992,3
+Independent Olympic Participants,Gold,1992,0
+Independent Olympic Participants,Silver,1992,1
+Independent Olympic Participants,Bronze,1992,2
+India,Total,1900,2
+India,Total,1928,1
+India,Total,1932,1
+India,Total,1936,1
+India,Total,1948,1
+India,Total,1952,2
+India,Total,1956,1
+India,Total,1960,1
+India,Total,1964,1
+India,Total,1968,1
+India,Total,1972,1
+India,Total,1980,1
+India,Total,1996,1
+India,Total,2000,1
+India,Total,2004,1
+India,Total,2008,3
+India,Total,2012,6
+India,Gold,1900,0
+India,Gold,1928,1
+India,Gold,1932,1
+India,Gold,1936,1
+India,Gold,1948,1
+India,Gold,1952,1
+India,Gold,1956,1
+India,Gold,1960,0
+India,Gold,1964,1
+India,Gold,1968,0
+India,Gold,1972,0
+India,Gold,1980,1
+India,Gold,1996,0
+India,Gold,2000,0
+India,Gold,2004,0
+India,Gold,2008,1
+India,Gold,2012,0
+India,Silver,1900,2
+India,Silver,1928,0
+India,Silver,1932,0
+India,Silver,1936,0
+India,Silver,1948,0
+India,Silver,1952,0
+India,Silver,1956,0
+India,Silver,1960,1
+India,Silver,1964,0
+India,Silver,1968,0
+India,Silver,1972,0
+India,Silver,1980,0
+India,Silver,1996,0
+India,Silver,2000,0
+India,Silver,2004,1
+India,Silver,2008,0
+India,Silver,2012,2
+India,Bronze,1900,0
+India,Bronze,1928,0
+India,Bronze,1932,0
+India,Bronze,1936,0
+India,Bronze,1948,0
+India,Bronze,1952,1
+India,Bronze,1956,0
+India,Bronze,1960,0
+India,Bronze,1964,0
+India,Bronze,1968,1
+India,Bronze,1972,1
+India,Bronze,1980,0
+India,Bronze,1996,1
+India,Bronze,2000,1
+India,Bronze,2004,0
+India,Bronze,2008,2
+India,Bronze,2012,4
+Indonesia,Total,1988,1
+Indonesia,Total,1992,5
+Indonesia,Total,1996,4
+Indonesia,Total,2000,6
+Indonesia,Total,2004,4
+Indonesia,Total,2008,5
+Indonesia,Total,2012,2
+Indonesia,Total,2016,2
+Indonesia,Gold,1988,0
+Indonesia,Gold,1992,2
+Indonesia,Gold,1996,1
+Indonesia,Gold,2000,1
+Indonesia,Gold,2004,1
+Indonesia,Gold,2008,1
+Indonesia,Gold,2012,0
+Indonesia,Gold,2016,0
+Indonesia,Silver,1988,1
+Indonesia,Silver,1992,2
+Indonesia,Silver,1996,1
+Indonesia,Silver,2000,3
+Indonesia,Silver,2004,1
+Indonesia,Silver,2008,1
+Indonesia,Silver,2012,1
+Indonesia,Silver,2016,2
+Indonesia,Bronze,1988,0
+Indonesia,Bronze,1992,1
+Indonesia,Bronze,1996,2
+Indonesia,Bronze,2000,2
+Indonesia,Bronze,2004,2
+Indonesia,Bronze,2008,3
+Indonesia,Bronze,2012,1
+Indonesia,Bronze,2016,0
+Iran,Total,1948,1
+Iran,Total,1952,7
+Iran,Total,1956,5
+Iran,Total,1960,4
+Iran,Total,1964,2
+Iran,Total,1968,5
+Iran,Total,1972,3
+Iran,Total,1976,2
+Iran,Total,1988,1
+Iran,Total,1992,3
+Iran,Total,1996,3
+Iran,Total,2000,4
+Iran,Total,2004,6
+Iran,Total,2008,2
+Iran,Total,2012,12
+Iran,Gold,1948,0
+Iran,Gold,1952,0
+Iran,Gold,1956,2
+Iran,Gold,1960,0
+Iran,Gold,1964,0
+Iran,Gold,1968,2
+Iran,Gold,1972,0
+Iran,Gold,1976,0
+Iran,Gold,1988,0
+Iran,Gold,1992,0
+Iran,Gold,1996,1
+Iran,Gold,2000,3
+Iran,Gold,2004,2
+Iran,Gold,2008,1
+Iran,Gold,2012,4
+Iran,Silver,1948,0
+Iran,Silver,1952,3
+Iran,Silver,1956,2
+Iran,Silver,1960,1
+Iran,Silver,1964,0
+Iran,Silver,1968,1
+Iran,Silver,1972,2
+Iran,Silver,1976,1
+Iran,Silver,1988,1
+Iran,Silver,1992,1
+Iran,Silver,1996,1
+Iran,Silver,2000,0
+Iran,Silver,2004,2
+Iran,Silver,2008,0
+Iran,Silver,2012,5
+Iran,Bronze,1948,1
+Iran,Bronze,1952,4
+Iran,Bronze,1956,1
+Iran,Bronze,1960,3
+Iran,Bronze,1964,2
+Iran,Bronze,1968,2
+Iran,Bronze,1972,1
+Iran,Bronze,1976,1
+Iran,Bronze,1988,0
+Iran,Bronze,1992,2
+Iran,Bronze,1996,1
+Iran,Bronze,2000,1
+Iran,Bronze,2004,2
+Iran,Bronze,2008,1
+Iran,Bronze,2012,3
+Iraq,Total,1960,1
+Iraq,Gold,1960,0
+Iraq,Silver,1960,0
+Iraq,Bronze,1960,1
+Ireland,Total,1928,1
+Ireland,Total,1932,2
+Ireland,Total,1952,1
+Ireland,Total,1956,5
+Ireland,Total,1964,1
+Ireland,Total,1980,2
+Ireland,Total,1984,1
+Ireland,Total,1992,2
+Ireland,Total,1996,4
+Ireland,Total,2000,1
+Ireland,Total,2008,3
+Ireland,Total,2012,6
+Ireland,Gold,1928,1
+Ireland,Gold,1932,2
+Ireland,Gold,1952,0
+Ireland,Gold,1956,1
+Ireland,Gold,1964,0
+Ireland,Gold,1980,0
+Ireland,Gold,1984,0
+Ireland,Gold,1992,1
+Ireland,Gold,1996,3
+Ireland,Gold,2000,0
+Ireland,Gold,2008,0
+Ireland,Gold,2012,1
+Ireland,Silver,1928,0
+Ireland,Silver,1932,0
+Ireland,Silver,1952,1
+Ireland,Silver,1956,1
+Ireland,Silver,1964,0
+Ireland,Silver,1980,1
+Ireland,Silver,1984,1
+Ireland,Silver,1992,1
+Ireland,Silver,1996,0
+Ireland,Silver,2000,1
+Ireland,Silver,2008,1
+Ireland,Silver,2012,1
+Ireland,Bronze,1928,0
+Ireland,Bronze,1932,0
+Ireland,Bronze,1952,0
+Ireland,Bronze,1956,3
+Ireland,Bronze,1964,1
+Ireland,Bronze,1980,1
+Ireland,Bronze,1984,0
+Ireland,Bronze,1992,0
+Ireland,Bronze,1996,1
+Ireland,Bronze,2000,0
+Ireland,Bronze,2008,2
+Ireland,Bronze,2012,4
+Israel,Total,1992,2
+Israel,Total,1996,1
+Israel,Total,2000,1
+Israel,Total,2004,2
+Israel,Total,2008,1
+Israel,Total,2016,1
+Israel,Gold,1992,0
+Israel,Gold,1996,0
+Israel,Gold,2000,0
+Israel,Gold,2004,1
+Israel,Gold,2008,0
+Israel,Gold,2016,0
+Israel,Silver,1992,1
+Israel,Silver,1996,0
+Israel,Silver,2000,0
+Israel,Silver,2004,0
+Israel,Silver,2008,0
+Israel,Silver,2016,0
+Israel,Bronze,1992,1
+Israel,Bronze,1996,1
+Israel,Bronze,2000,1
+Israel,Bronze,2004,1
+Israel,Bronze,2008,1
+Israel,Bronze,2016,1
+Italy,Total,1900,4
+Italy,Total,1908,4
+Italy,Total,1912,6
+Italy,Total,1920,23
+Italy,Total,1924,16
+Italy,Total,1928,19
+Italy,Total,1932,36
+Italy,Total,1936,22
+Italy,Total,1948,27
+Italy,Total,1952,21
+Italy,Total,1956,25
+Italy,Total,1960,36
+Italy,Total,1964,27
+Italy,Total,1968,16
+Italy,Total,1972,18
+Italy,Total,1976,13
+Italy,Total,1980,15
+Italy,Total,1984,32
+Italy,Total,1988,14
+Italy,Total,1992,19
+Italy,Total,1996,35
+Italy,Total,2000,34
+Italy,Total,2004,32
+Italy,Total,2008,27
+Italy,Total,2012,28
+Italy,Total,2016,9
+Italy,Gold,1900,2
+Italy,Gold,1908,2
+Italy,Gold,1912,3
+Italy,Gold,1920,13
+Italy,Gold,1924,8
+Italy,Gold,1928,7
+Italy,Gold,1932,12
+Italy,Gold,1936,8
+Italy,Gold,1948,8
+Italy,Gold,1952,8
+Italy,Gold,1956,8
+Italy,Gold,1960,13
+Italy,Gold,1964,10
+Italy,Gold,1968,3
+Italy,Gold,1972,5
+Italy,Gold,1976,2
+Italy,Gold,1980,8
+Italy,Gold,1984,14
+Italy,Gold,1988,6
+Italy,Gold,1992,6
+Italy,Gold,1996,13
+Italy,Gold,2000,13
+Italy,Gold,2004,10
+Italy,Gold,2008,8
+Italy,Gold,2012,8
+Italy,Gold,2016,3
+Italy,Silver,1900,2
+Italy,Silver,1908,2
+Italy,Silver,1912,1
+Italy,Silver,1920,5
+Italy,Silver,1924,3
+Italy,Silver,1928,5
+Italy,Silver,1932,12
+Italy,Silver,1936,9
+Italy,Silver,1948,11
+Italy,Silver,1952,9
+Italy,Silver,1956,8
+Italy,Silver,1960,10
+Italy,Silver,1964,10
+Italy,Silver,1968,4
+Italy,Silver,1972,3
+Italy,Silver,1976,7
+Italy,Silver,1980,3
+Italy,Silver,1984,6
+Italy,Silver,1988,4
+Italy,Silver,1992,5
+Italy,Silver,1996,10
+Italy,Silver,2000,8
+Italy,Silver,2004,11
+Italy,Silver,2008,9
+Italy,Silver,2012,9
+Italy,Silver,2016,4
+Italy,Bronze,1900,0
+Italy,Bronze,1908,0
+Italy,Bronze,1912,2
+Italy,Bronze,1920,5
+Italy,Bronze,1924,5
+Italy,Bronze,1928,7
+Italy,Bronze,1932,12
+Italy,Bronze,1936,5
+Italy,Bronze,1948,8
+Italy,Bronze,1952,4
+Italy,Bronze,1956,9
+Italy,Bronze,1960,13
+Italy,Bronze,1964,7
+Italy,Bronze,1968,9
+Italy,Bronze,1972,10
+Italy,Bronze,1976,4
+Italy,Bronze,1980,4
+Italy,Bronze,1984,12
+Italy,Bronze,1988,4
+Italy,Bronze,1992,8
+Italy,Bronze,1996,12
+Italy,Bronze,2000,13
+Italy,Bronze,2004,11
+Italy,Bronze,2008,10
+Italy,Bronze,2012,11
+Italy,Bronze,2016,2
+Ivory Coast,Total,1984,1
+Ivory Coast,Gold,1984,0
+Ivory Coast,Silver,1984,1
+Ivory Coast,Bronze,1984,0
+Japan,Total,1920,2
+Japan,Total,1924,1
+Japan,Total,1928,5
+Japan,Total,1932,18
+Japan,Total,1936,18
+Japan,Total,1952,9
+Japan,Total,1956,19
+Japan,Total,1960,18
+Japan,Total,1964,29
+Japan,Total,1968,25
+Japan,Total,1972,29
+Japan,Total,1976,25
+Japan,Total,1984,32
+Japan,Total,1988,14
+Japan,Total,1992,22
+Japan,Total,1996,14
+Japan,Total,2000,18
+Japan,Total,2004,37
+Japan,Total,2008,25
+Japan,Total,2012,38
+Japan,Total,2016,14
+Japan,Gold,1920,0
+Japan,Gold,1924,0
+Japan,Gold,1928,2
+Japan,Gold,1932,7
+Japan,Gold,1936,6
+Japan,Gold,1952,1
+Japan,Gold,1956,4
+Japan,Gold,1960,4
+Japan,Gold,1964,16
+Japan,Gold,1968,11
+Japan,Gold,1972,13
+Japan,Gold,1976,9
+Japan,Gold,1984,10
+Japan,Gold,1988,4
+Japan,Gold,1992,3
+Japan,Gold,1996,3
+Japan,Gold,2000,5
+Japan,Gold,2004,16
+Japan,Gold,2008,9
+Japan,Gold,2012,7
+Japan,Gold,2016,3
+Japan,Silver,1920,2
+Japan,Silver,1924,0
+Japan,Silver,1928,2
+Japan,Silver,1932,7
+Japan,Silver,1936,4
+Japan,Silver,1952,6
+Japan,Silver,1956,10
+Japan,Silver,1960,7
+Japan,Silver,1964,5
+Japan,Silver,1968,7
+Japan,Silver,1972,8
+Japan,Silver,1976,6
+Japan,Silver,1984,8
+Japan,Silver,1988,3
+Japan,Silver,1992,8
+Japan,Silver,1996,6
+Japan,Silver,2000,8
+Japan,Silver,2004,9
+Japan,Silver,2008,6
+Japan,Silver,2012,14
+Japan,Silver,2016,1
+Japan,Bronze,1920,0
+Japan,Bronze,1924,1
+Japan,Bronze,1928,1
+Japan,Bronze,1932,4
+Japan,Bronze,1936,8
+Japan,Bronze,1952,2
+Japan,Bronze,1956,5
+Japan,Bronze,1960,7
+Japan,Bronze,1964,8
+Japan,Bronze,1968,7
+Japan,Bronze,1972,8
+Japan,Bronze,1976,10
+Japan,Bronze,1984,14
+Japan,Bronze,1988,7
+Japan,Bronze,1992,11
+Japan,Bronze,1996,5
+Japan,Bronze,2000,5
+Japan,Bronze,2004,12
+Japan,Bronze,2008,10
+Japan,Bronze,2012,17
+Japan,Bronze,2016,10
+Kazakhstan,Total,1996,11
+Kazakhstan,Total,2000,7
+Kazakhstan,Total,2004,8
+Kazakhstan,Total,2008,13
+Kazakhstan,Total,2012,13
+Kazakhstan,Total,2016,4
+Kazakhstan,Gold,1996,3
+Kazakhstan,Gold,2000,3
+Kazakhstan,Gold,2004,1
+Kazakhstan,Gold,2008,2
+Kazakhstan,Gold,2012,7
+Kazakhstan,Gold,2016,0
+Kazakhstan,Silver,1996,4
+Kazakhstan,Silver,2000,4
+Kazakhstan,Silver,2004,4
+Kazakhstan,Silver,2008,4
+Kazakhstan,Silver,2012,1
+Kazakhstan,Silver,2016,1
+Kazakhstan,Bronze,1996,4
+Kazakhstan,Bronze,2000,0
+Kazakhstan,Bronze,2004,3
+Kazakhstan,Bronze,2008,7
+Kazakhstan,Bronze,2012,5
+Kazakhstan,Bronze,2016,3
+Kenya,Total,1964,1
+Kenya,Total,1968,9
+Kenya,Total,1972,9
+Kenya,Total,1984,3
+Kenya,Total,1988,9
+Kenya,Total,1992,8
+Kenya,Total,1996,8
+Kenya,Total,2000,7
+Kenya,Total,2004,7
+Kenya,Total,2008,14
+Kenya,Total,2012,11
+Kenya,Gold,1964,0
+Kenya,Gold,1968,3
+Kenya,Gold,1972,2
+Kenya,Gold,1984,1
+Kenya,Gold,1988,5
+Kenya,Gold,1992,2
+Kenya,Gold,1996,1
+Kenya,Gold,2000,2
+Kenya,Gold,2004,1
+Kenya,Gold,2008,6
+Kenya,Gold,2012,2
+Kenya,Silver,1964,0
+Kenya,Silver,1968,4
+Kenya,Silver,1972,3
+Kenya,Silver,1984,0
+Kenya,Silver,1988,2
+Kenya,Silver,1992,4
+Kenya,Silver,1996,4
+Kenya,Silver,2000,3
+Kenya,Silver,2004,4
+Kenya,Silver,2008,4
+Kenya,Silver,2012,4
+Kenya,Bronze,1964,1
+Kenya,Bronze,1968,2
+Kenya,Bronze,1972,4
+Kenya,Bronze,1984,2
+Kenya,Bronze,1988,2
+Kenya,Bronze,1992,2
+Kenya,Bronze,1996,3
+Kenya,Bronze,2000,2
+Kenya,Bronze,2004,2
+Kenya,Bronze,2008,4
+Kenya,Bronze,2012,5
+Kosovo,Total,2016,1
+Kosovo,Gold,2016,1
+Kosovo,Silver,2016,0
+Kosovo,Bronze,2016,0
+Kuwait,Total,2000,1
+Kuwait,Total,2012,1
+Kuwait,Gold,2000,0
+Kuwait,Gold,2012,0
+Kuwait,Silver,2000,0
+Kuwait,Silver,2012,0
+Kuwait,Bronze,2000,1
+Kuwait,Bronze,2012,1
+Kyrgyzstan,Total,2000,1
+Kyrgyzstan,Total,2008,2
+Kyrgyzstan,Total,2016,1
+Kyrgyzstan,Gold,2000,0
+Kyrgyzstan,Gold,2008,0
+Kyrgyzstan,Gold,2016,0
+Kyrgyzstan,Silver,2000,0
+Kyrgyzstan,Silver,2008,1
+Kyrgyzstan,Silver,2016,0
+Kyrgyzstan,Bronze,2000,1
+Kyrgyzstan,Bronze,2008,1
+Kyrgyzstan,Bronze,2016,1
+Latvia,Total,1932,1
+Latvia,Total,1936,2
+Latvia,Total,1992,3
+Latvia,Total,1996,1
+Latvia,Total,2000,3
+Latvia,Total,2004,4
+Latvia,Total,2008,3
+Latvia,Total,2012,2
+Latvia,Gold,1932,0
+Latvia,Gold,1936,0
+Latvia,Gold,1992,0
+Latvia,Gold,1996,0
+Latvia,Gold,2000,1
+Latvia,Gold,2004,0
+Latvia,Gold,2008,1
+Latvia,Gold,2012,1
+Latvia,Silver,1932,1
+Latvia,Silver,1936,1
+Latvia,Silver,1992,2
+Latvia,Silver,1996,1
+Latvia,Silver,2000,1
+Latvia,Silver,2004,4
+Latvia,Silver,2008,1
+Latvia,Silver,2012,0
+Latvia,Bronze,1932,0
+Latvia,Bronze,1936,1
+Latvia,Bronze,1992,1
+Latvia,Bronze,1996,0
+Latvia,Bronze,2000,1
+Latvia,Bronze,2004,0
+Latvia,Bronze,2008,1
+Latvia,Bronze,2012,1
+Lebanon,Total,1952,2
+Lebanon,Total,1972,1
+Lebanon,Total,1980,1
+Lebanon,Gold,1952,0
+Lebanon,Gold,1972,0
+Lebanon,Gold,1980,0
+Lebanon,Silver,1952,1
+Lebanon,Silver,1972,1
+Lebanon,Silver,1980,0
+Lebanon,Bronze,1952,1
+Lebanon,Bronze,1972,0
+Lebanon,Bronze,1980,1
+Lithuania,Total,1992,2
+Lithuania,Total,1996,1
+Lithuania,Total,2000,5
+Lithuania,Total,2004,3
+Lithuania,Total,2008,5
+Lithuania,Total,2012,5
+Lithuania,Gold,1992,1
+Lithuania,Gold,1996,0
+Lithuania,Gold,2000,2
+Lithuania,Gold,2004,1
+Lithuania,Gold,2008,0
+Lithuania,Gold,2012,2
+Lithuania,Silver,1992,0
+Lithuania,Silver,1996,0
+Lithuania,Silver,2000,0
+Lithuania,Silver,2004,2
+Lithuania,Silver,2008,2
+Lithuania,Silver,2012,1
+Lithuania,Bronze,1992,1
+Lithuania,Bronze,1996,1
+Lithuania,Bronze,2000,3
+Lithuania,Bronze,2004,0
+Lithuania,Bronze,2008,3
+Lithuania,Bronze,2012,2
+Luxembourg,Total,1920,1
+Luxembourg,Total,1952,1
+Luxembourg,Gold,1920,0
+Luxembourg,Gold,1952,1
+Luxembourg,Silver,1920,1
+Luxembourg,Silver,1952,0
+Luxembourg,Bronze,1920,0
+Luxembourg,Bronze,1952,0
+Macedonia,Total,2000,1
+Macedonia,Gold,2000,0
+Macedonia,Silver,2000,0
+Macedonia,Bronze,2000,1
+Malaysia,Total,1992,1
+Malaysia,Total,1996,2
+Malaysia,Total,2008,1
+Malaysia,Total,2012,2
+Malaysia,Total,2016,1
+Malaysia,Gold,1992,0
+Malaysia,Gold,1996,0
+Malaysia,Gold,2008,0
+Malaysia,Gold,2012,0
+Malaysia,Gold,2016,0
+Malaysia,Silver,1992,0
+Malaysia,Silver,1996,1
+Malaysia,Silver,2008,1
+Malaysia,Silver,2012,1
+Malaysia,Silver,2016,1
+Malaysia,Bronze,1992,1
+Malaysia,Bronze,1996,1
+Malaysia,Bronze,2008,0
+Malaysia,Bronze,2012,1
+Malaysia,Bronze,2016,0
+Mauritius,Total,2008,1
+Mauritius,Gold,2008,0
+Mauritius,Silver,2008,0
+Mauritius,Bronze,2008,1
+Mexico,Total,1900,1
+Mexico,Total,1932,2
+Mexico,Total,1936,3
+Mexico,Total,1948,5
+Mexico,Total,1952,1
+Mexico,Total,1956,2
+Mexico,Total,1960,1
+Mexico,Total,1964,1
+Mexico,Total,1968,9
+Mexico,Total,1972,1
+Mexico,Total,1976,2
+Mexico,Total,1980,4
+Mexico,Total,1984,6
+Mexico,Total,1988,2
+Mexico,Total,1992,1
+Mexico,Total,1996,1
+Mexico,Total,2000,6
+Mexico,Total,2004,4
+Mexico,Total,2008,3
+Mexico,Total,2012,7
+Mexico,Gold,1900,0
+Mexico,Gold,1932,0
+Mexico,Gold,1936,0
+Mexico,Gold,1948,2
+Mexico,Gold,1952,0
+Mexico,Gold,1956,1
+Mexico,Gold,1960,0
+Mexico,Gold,1964,0
+Mexico,Gold,1968,3
+Mexico,Gold,1972,0
+Mexico,Gold,1976,1
+Mexico,Gold,1980,0
+Mexico,Gold,1984,2
+Mexico,Gold,1988,0
+Mexico,Gold,1992,0
+Mexico,Gold,1996,0
+Mexico,Gold,2000,1
+Mexico,Gold,2004,0
+Mexico,Gold,2008,2
+Mexico,Gold,2012,1
+Mexico,Silver,1900,0
+Mexico,Silver,1932,2
+Mexico,Silver,1936,0
+Mexico,Silver,1948,1
+Mexico,Silver,1952,1
+Mexico,Silver,1956,0
+Mexico,Silver,1960,0
+Mexico,Silver,1964,0
+Mexico,Silver,1968,3
+Mexico,Silver,1972,1
+Mexico,Silver,1976,0
+Mexico,Silver,1980,1
+Mexico,Silver,1984,3
+Mexico,Silver,1988,0
+Mexico,Silver,1992,1
+Mexico,Silver,1996,0
+Mexico,Silver,2000,2
+Mexico,Silver,2004,3
+Mexico,Silver,2008,0
+Mexico,Silver,2012,3
+Mexico,Bronze,1900,1
+Mexico,Bronze,1932,0
+Mexico,Bronze,1936,3
+Mexico,Bronze,1948,2
+Mexico,Bronze,1952,0
+Mexico,Bronze,1956,1
+Mexico,Bronze,1960,1
+Mexico,Bronze,1964,1
+Mexico,Bronze,1968,3
+Mexico,Bronze,1972,0
+Mexico,Bronze,1976,1
+Mexico,Bronze,1980,3
+Mexico,Bronze,1984,1
+Mexico,Bronze,1988,2
+Mexico,Bronze,1992,0
+Mexico,Bronze,1996,1
+Mexico,Bronze,2000,3
+Mexico,Bronze,2004,1
+Mexico,Bronze,2008,1
+Mexico,Bronze,2012,3
+Mixed team,Total,1896,3
+Mixed team,Total,1900,12
+Mixed team,Total,1904,2
+Mixed team,Gold,1896,1
+Mixed team,Gold,1900,6
+Mixed team,Gold,1904,1
+Mixed team,Silver,1896,1
+Mixed team,Silver,1900,3
+Mixed team,Silver,1904,1
+Mixed team,Bronze,1896,1
+Mixed team,Bronze,1900,3
+Mixed team,Bronze,1904,0
+Moldova,Total,1996,2
+Moldova,Total,2000,2
+Moldova,Total,2008,1
+Moldova,Total,2012,2
+Moldova,Gold,1996,0
+Moldova,Gold,2000,0
+Moldova,Gold,2008,0
+Moldova,Gold,2012,0
+Moldova,Silver,1996,1
+Moldova,Silver,2000,1
+Moldova,Silver,2008,0
+Moldova,Silver,2012,0
+Moldova,Bronze,1996,1
+Moldova,Bronze,2000,1
+Moldova,Bronze,2008,1
+Moldova,Bronze,2012,2
+Mongolia,Total,1968,4
+Mongolia,Total,1972,1
+Mongolia,Total,1976,1
+Mongolia,Total,1980,4
+Mongolia,Total,1988,1
+Mongolia,Total,1992,2
+Mongolia,Total,1996,1
+Mongolia,Total,2004,1
+Mongolia,Total,2008,4
+Mongolia,Total,2012,5
+Mongolia,Total,2016,1
+Mongolia,Gold,1968,0
+Mongolia,Gold,1972,0
+Mongolia,Gold,1976,0
+Mongolia,Gold,1980,0
+Mongolia,Gold,1988,0
+Mongolia,Gold,1992,0
+Mongolia,Gold,1996,0
+Mongolia,Gold,2004,0
+Mongolia,Gold,2008,2
+Mongolia,Gold,2012,0
+Mongolia,Gold,2016,0
+Mongolia,Silver,1968,1
+Mongolia,Silver,1972,1
+Mongolia,Silver,1976,1
+Mongolia,Silver,1980,2
+Mongolia,Silver,1988,0
+Mongolia,Silver,1992,0
+Mongolia,Silver,1996,0
+Mongolia,Silver,2004,0
+Mongolia,Silver,2008,2
+Mongolia,Silver,2012,2
+Mongolia,Silver,2016,1
+Mongolia,Bronze,1968,3
+Mongolia,Bronze,1972,0
+Mongolia,Bronze,1976,0
+Mongolia,Bronze,1980,2
+Mongolia,Bronze,1988,1
+Mongolia,Bronze,1992,2
+Mongolia,Bronze,1996,1
+Mongolia,Bronze,2004,1
+Mongolia,Bronze,2008,0
+Mongolia,Bronze,2012,3
+Mongolia,Bronze,2016,0
+Montenegro,Total,2012,1
+Montenegro,Gold,2012,0
+Montenegro,Silver,2012,1
+Montenegro,Bronze,2012,0
+Morocco,Total,1960,1
+Morocco,Total,1984,2
+Morocco,Total,1988,3
+Morocco,Total,1992,3
+Morocco,Total,1996,2
+Morocco,Total,2000,5
+Morocco,Total,2004,3
+Morocco,Total,2008,2
+Morocco,Total,2012,1
+Morocco,Gold,1960,0
+Morocco,Gold,1984,2
+Morocco,Gold,1988,1
+Morocco,Gold,1992,1
+Morocco,Gold,1996,0
+Morocco,Gold,2000,0
+Morocco,Gold,2004,2
+Morocco,Gold,2008,0
+Morocco,Gold,2012,0
+Morocco,Silver,1960,1
+Morocco,Silver,1984,0
+Morocco,Silver,1988,0
+Morocco,Silver,1992,1
+Morocco,Silver,1996,0
+Morocco,Silver,2000,1
+Morocco,Silver,2004,1
+Morocco,Silver,2008,1
+Morocco,Silver,2012,0
+Morocco,Bronze,1960,0
+Morocco,Bronze,1984,0
+Morocco,Bronze,1988,2
+Morocco,Bronze,1992,1
+Morocco,Bronze,1996,2
+Morocco,Bronze,2000,4
+Morocco,Bronze,2004,0
+Morocco,Bronze,2008,1
+Morocco,Bronze,2012,1
+Mozambique,Total,1996,1
+Mozambique,Total,2000,1
+Mozambique,Gold,1996,0
+Mozambique,Gold,2000,1
+Mozambique,Silver,1996,0
+Mozambique,Silver,2000,0
+Mozambique,Bronze,1996,1
+Mozambique,Bronze,2000,0
+Namibia,Total,1992,2
+Namibia,Total,1996,2
+Namibia,Gold,1992,0
+Namibia,Gold,1996,0
+Namibia,Silver,1992,2
+Namibia,Silver,1996,2
+Namibia,Bronze,1992,0
+Namibia,Bronze,1996,0
+Netherlands,Total,1900,4
+Netherlands,Total,1908,2
+Netherlands,Total,1912,3
+Netherlands,Total,1920,11
+Netherlands,Total,1924,10
+Netherlands,Total,1928,19
+Netherlands,Total,1932,7
+Netherlands,Total,1936,17
+Netherlands,Total,1948,16
+Netherlands,Total,1952,5
+Netherlands,Total,1960,3
+Netherlands,Total,1964,10
+Netherlands,Total,1968,7
+Netherlands,Total,1972,5
+Netherlands,Total,1976,5
+Netherlands,Total,1980,3
+Netherlands,Total,1984,13
+Netherlands,Total,1988,9
+Netherlands,Total,1992,15
+Netherlands,Total,1996,19
+Netherlands,Total,2000,25
+Netherlands,Total,2004,22
+Netherlands,Total,2008,16
+Netherlands,Total,2012,20
+Netherlands,Total,2016,2
+Netherlands,Gold,1900,0
+Netherlands,Gold,1908,0
+Netherlands,Gold,1912,0
+Netherlands,Gold,1920,4
+Netherlands,Gold,1924,4
+Netherlands,Gold,1928,6
+Netherlands,Gold,1932,2
+Netherlands,Gold,1936,6
+Netherlands,Gold,1948,5
+Netherlands,Gold,1952,0
+Netherlands,Gold,1960,0
+Netherlands,Gold,1964,2
+Netherlands,Gold,1968,3
+Netherlands,Gold,1972,3
+Netherlands,Gold,1976,0
+Netherlands,Gold,1980,0
+Netherlands,Gold,1984,5
+Netherlands,Gold,1988,2
+Netherlands,Gold,1992,2
+Netherlands,Gold,1996,4
+Netherlands,Gold,2000,12
+Netherlands,Gold,2004,4
+Netherlands,Gold,2008,7
+Netherlands,Gold,2012,6
+Netherlands,Gold,2016,1
+Netherlands,Silver,1900,1
+Netherlands,Silver,1908,0
+Netherlands,Silver,1912,0
+Netherlands,Silver,1920,2
+Netherlands,Silver,1924,1
+Netherlands,Silver,1928,9
+Netherlands,Silver,1932,5
+Netherlands,Silver,1936,4
+Netherlands,Silver,1948,2
+Netherlands,Silver,1952,5
+Netherlands,Silver,1960,1
+Netherlands,Silver,1964,4
+Netherlands,Silver,1968,3
+Netherlands,Silver,1972,1
+Netherlands,Silver,1976,2
+Netherlands,Silver,1980,1
+Netherlands,Silver,1984,2
+Netherlands,Silver,1988,2
+Netherlands,Silver,1992,6
+Netherlands,Silver,1996,5
+Netherlands,Silver,2000,9
+Netherlands,Silver,2004,9
+Netherlands,Silver,2008,5
+Netherlands,Silver,2012,6
+Netherlands,Silver,2016,0
+Netherlands,Bronze,1900,3
+Netherlands,Bronze,1908,2
+Netherlands,Bronze,1912,3
+Netherlands,Bronze,1920,5
+Netherlands,Bronze,1924,5
+Netherlands,Bronze,1928,4
+Netherlands,Bronze,1932,0
+Netherlands,Bronze,1936,7
+Netherlands,Bronze,1948,9
+Netherlands,Bronze,1952,0
+Netherlands,Bronze,1960,2
+Netherlands,Bronze,1964,4
+Netherlands,Bronze,1968,1
+Netherlands,Bronze,1972,1
+Netherlands,Bronze,1976,3
+Netherlands,Bronze,1980,2
+Netherlands,Bronze,1984,6
+Netherlands,Bronze,1988,5
+Netherlands,Bronze,1992,7
+Netherlands,Bronze,1996,10
+Netherlands,Bronze,2000,4
+Netherlands,Bronze,2004,9
+Netherlands,Bronze,2008,4
+Netherlands,Bronze,2012,8
+Netherlands,Bronze,2016,1
+Netherlands Antilles,Total,1988,1
+Netherlands Antilles,Gold,1988,0
+Netherlands Antilles,Silver,1988,1
+Netherlands Antilles,Bronze,1988,0
+New Zealand,Total,1920,1
+New Zealand,Total,1924,1
+New Zealand,Total,1928,1
+New Zealand,Total,1932,1
+New Zealand,Total,1936,1
+New Zealand,Total,1952,3
+New Zealand,Total,1956,2
+New Zealand,Total,1960,3
+New Zealand,Total,1964,5
+New Zealand,Total,1968,3
+New Zealand,Total,1972,3
+New Zealand,Total,1976,4
+New Zealand,Total,1984,11
+New Zealand,Total,1988,13
+New Zealand,Total,1992,10
+New Zealand,Total,1996,6
+New Zealand,Total,2000,4
+New Zealand,Total,2004,5
+New Zealand,Total,2008,9
+New Zealand,Total,2012,13
+New Zealand,Total,2016,2
+New Zealand,Gold,1920,0
+New Zealand,Gold,1924,0
+New Zealand,Gold,1928,1
+New Zealand,Gold,1932,0
+New Zealand,Gold,1936,1
+New Zealand,Gold,1952,1
+New Zealand,Gold,1956,2
+New Zealand,Gold,1960,2
+New Zealand,Gold,1964,3
+New Zealand,Gold,1968,1
+New Zealand,Gold,1972,1
+New Zealand,Gold,1976,2
+New Zealand,Gold,1984,8
+New Zealand,Gold,1988,3
+New Zealand,Gold,1992,1
+New Zealand,Gold,1996,3
+New Zealand,Gold,2000,1
+New Zealand,Gold,2004,3
+New Zealand,Gold,2008,3
+New Zealand,Gold,2012,6
+New Zealand,Gold,2016,0
+New Zealand,Silver,1920,0
+New Zealand,Silver,1924,0
+New Zealand,Silver,1928,0
+New Zealand,Silver,1932,1
+New Zealand,Silver,1936,0
+New Zealand,Silver,1952,0
+New Zealand,Silver,1956,0
+New Zealand,Silver,1960,0
+New Zealand,Silver,1964,0
+New Zealand,Silver,1968,0
+New Zealand,Silver,1972,1
+New Zealand,Silver,1976,1
+New Zealand,Silver,1984,1
+New Zealand,Silver,1988,2
+New Zealand,Silver,1992,4
+New Zealand,Silver,1996,2
+New Zealand,Silver,2000,0
+New Zealand,Silver,2004,2
+New Zealand,Silver,2008,2
+New Zealand,Silver,2012,2
+New Zealand,Silver,2016,2
+New Zealand,Bronze,1920,1
+New Zealand,Bronze,1924,1
+New Zealand,Bronze,1928,0
+New Zealand,Bronze,1932,0
+New Zealand,Bronze,1936,0
+New Zealand,Bronze,1952,2
+New Zealand,Bronze,1956,0
+New Zealand,Bronze,1960,1
+New Zealand,Bronze,1964,2
+New Zealand,Bronze,1968,2
+New Zealand,Bronze,1972,1
+New Zealand,Bronze,1976,1
+New Zealand,Bronze,1984,2
+New Zealand,Bronze,1988,8
+New Zealand,Bronze,1992,5
+New Zealand,Bronze,1996,1
+New Zealand,Bronze,2000,3
+New Zealand,Bronze,2004,0
+New Zealand,Bronze,2008,4
+New Zealand,Bronze,2012,5
+New Zealand,Bronze,2016,0
+Niger,Total,1972,1
+Niger,Gold,1972,0
+Niger,Silver,1972,0
+Niger,Bronze,1972,1
+Nigeria,Total,1964,1
+Nigeria,Total,1972,1
+Nigeria,Total,1984,2
+Nigeria,Total,1992,4
+Nigeria,Total,1996,6
+Nigeria,Total,2000,3
+Nigeria,Total,2004,2
+Nigeria,Total,2008,4
+Nigeria,Gold,1964,0
+Nigeria,Gold,1972,0
+Nigeria,Gold,1984,0
+Nigeria,Gold,1992,0
+Nigeria,Gold,1996,2
+Nigeria,Gold,2000,1
+Nigeria,Gold,2004,0
+Nigeria,Gold,2008,0
+Nigeria,Silver,1964,0
+Nigeria,Silver,1972,0
+Nigeria,Silver,1984,1
+Nigeria,Silver,1992,3
+Nigeria,Silver,1996,1
+Nigeria,Silver,2000,2
+Nigeria,Silver,2004,0
+Nigeria,Silver,2008,1
+Nigeria,Bronze,1964,1
+Nigeria,Bronze,1972,1
+Nigeria,Bronze,1984,1
+Nigeria,Bronze,1992,1
+Nigeria,Bronze,1996,3
+Nigeria,Bronze,2000,0
+Nigeria,Bronze,2004,2
+Nigeria,Bronze,2008,3
+North Korea,Total,1972,5
+North Korea,Total,1976,2
+North Korea,Total,1980,5
+North Korea,Total,1992,9
+North Korea,Total,1996,5
+North Korea,Total,2000,4
+North Korea,Total,2004,5
+North Korea,Total,2008,6
+North Korea,Total,2012,6
+North Korea,Total,2016,2
+North Korea,Gold,1972,1
+North Korea,Gold,1976,1
+North Korea,Gold,1980,0
+North Korea,Gold,1992,4
+North Korea,Gold,1996,2
+North Korea,Gold,2000,0
+North Korea,Gold,2004,0
+North Korea,Gold,2008,2
+North Korea,Gold,2012,4
+North Korea,Gold,2016,0
+North Korea,Silver,1972,1
+North Korea,Silver,1976,1
+North Korea,Silver,1980,3
+North Korea,Silver,1992,0
+North Korea,Silver,1996,1
+North Korea,Silver,2000,1
+North Korea,Silver,2004,4
+North Korea,Silver,2008,1
+North Korea,Silver,2012,0
+North Korea,Silver,2016,2
+North Korea,Bronze,1972,3
+North Korea,Bronze,1976,0
+North Korea,Bronze,1980,2
+North Korea,Bronze,1992,5
+North Korea,Bronze,1996,2
+North Korea,Bronze,2000,3
+North Korea,Bronze,2004,1
+North Korea,Bronze,2008,3
+North Korea,Bronze,2012,2
+North Korea,Bronze,2016,0
+Norway,Total,1900,5
+Norway,Total,1908,8
+Norway,Total,1912,9
+Norway,Total,1920,31
+Norway,Total,1924,10
+Norway,Total,1928,4
+Norway,Total,1936,6
+Norway,Total,1948,7
+Norway,Total,1952,5
+Norway,Total,1956,3
+Norway,Total,1960,1
+Norway,Total,1968,2
+Norway,Total,1972,4
+Norway,Total,1976,2
+Norway,Total,1984,3
+Norway,Total,1988,5
+Norway,Total,1992,7
+Norway,Total,1996,7
+Norway,Total,2000,10
+Norway,Total,2004,6
+Norway,Total,2008,9
+Norway,Total,2012,4
+Norway,Gold,1900,0
+Norway,Gold,1908,2
+Norway,Gold,1912,4
+Norway,Gold,1920,13
+Norway,Gold,1924,5
+Norway,Gold,1928,1
+Norway,Gold,1936,1
+Norway,Gold,1948,1
+Norway,Gold,1952,3
+Norway,Gold,1956,1
+Norway,Gold,1960,1
+Norway,Gold,1968,1
+Norway,Gold,1972,2
+Norway,Gold,1976,1
+Norway,Gold,1984,0
+Norway,Gold,1988,2
+Norway,Gold,1992,2
+Norway,Gold,1996,2
+Norway,Gold,2000,4
+Norway,Gold,2004,5
+Norway,Gold,2008,3
+Norway,Gold,2012,2
+Norway,Silver,1900,2
+Norway,Silver,1908,3
+Norway,Silver,1912,1
+Norway,Silver,1920,9
+Norway,Silver,1924,2
+Norway,Silver,1928,2
+Norway,Silver,1936,3
+Norway,Silver,1948,3
+Norway,Silver,1952,2
+Norway,Silver,1956,0
+Norway,Silver,1960,0
+Norway,Silver,1968,1
+Norway,Silver,1972,1
+Norway,Silver,1976,1
+Norway,Silver,1984,1
+Norway,Silver,1988,3
+Norway,Silver,1992,4
+Norway,Silver,1996,2
+Norway,Silver,2000,3
+Norway,Silver,2004,0
+Norway,Silver,2008,5
+Norway,Silver,2012,1
+Norway,Bronze,1900,3
+Norway,Bronze,1908,3
+Norway,Bronze,1912,4
+Norway,Bronze,1920,9
+Norway,Bronze,1924,3
+Norway,Bronze,1928,1
+Norway,Bronze,1936,2
+Norway,Bronze,1948,3
+Norway,Bronze,1952,0
+Norway,Bronze,1956,2
+Norway,Bronze,1960,0
+Norway,Bronze,1968,0
+Norway,Bronze,1972,1
+Norway,Bronze,1976,0
+Norway,Bronze,1984,2
+Norway,Bronze,1988,0
+Norway,Bronze,1992,1
+Norway,Bronze,1996,3
+Norway,Bronze,2000,3
+Norway,Bronze,2004,1
+Norway,Bronze,2008,1
+Norway,Bronze,2012,1
+Pakistan,Total,1956,1
+Pakistan,Total,1960,2
+Pakistan,Total,1964,1
+Pakistan,Total,1968,1
+Pakistan,Total,1972,1
+Pakistan,Total,1976,1
+Pakistan,Total,1984,1
+Pakistan,Total,1988,1
+Pakistan,Total,1992,1
+Pakistan,Gold,1956,0
+Pakistan,Gold,1960,1
+Pakistan,Gold,1964,0
+Pakistan,Gold,1968,1
+Pakistan,Gold,1972,0
+Pakistan,Gold,1976,0
+Pakistan,Gold,1984,1
+Pakistan,Gold,1988,0
+Pakistan,Gold,1992,0
+Pakistan,Silver,1956,1
+Pakistan,Silver,1960,0
+Pakistan,Silver,1964,1
+Pakistan,Silver,1968,0
+Pakistan,Silver,1972,1
+Pakistan,Silver,1976,0
+Pakistan,Silver,1984,0
+Pakistan,Silver,1988,0
+Pakistan,Silver,1992,0
+Pakistan,Bronze,1956,0
+Pakistan,Bronze,1960,1
+Pakistan,Bronze,1964,0
+Pakistan,Bronze,1968,0
+Pakistan,Bronze,1972,0
+Pakistan,Bronze,1976,1
+Pakistan,Bronze,1984,0
+Pakistan,Bronze,1988,1
+Pakistan,Bronze,1992,1
+Panama,Total,1948,2
+Panama,Total,2008,1
+Panama,Gold,1948,0
+Panama,Gold,2008,1
+Panama,Silver,1948,0
+Panama,Silver,2008,0
+Panama,Bronze,1948,2
+Panama,Bronze,2008,0
+Paraguay,Total,2004,1
+Paraguay,Gold,2004,0
+Paraguay,Silver,2004,1
+Paraguay,Bronze,2004,0
+Peru,Total,1948,1
+Peru,Total,1984,1
+Peru,Total,1988,1
+Peru,Total,1992,1
+Peru,Gold,1948,1
+Peru,Gold,1984,0
+Peru,Gold,1988,0
+Peru,Gold,1992,0
+Peru,Silver,1948,0
+Peru,Silver,1984,1
+Peru,Silver,1988,1
+Peru,Silver,1992,1
+Peru,Bronze,1948,0
+Peru,Bronze,1984,0
+Peru,Bronze,1988,0
+Peru,Bronze,1992,0
+Philippines,Total,1928,1
+Philippines,Total,1932,3
+Philippines,Total,1936,1
+Philippines,Total,1964,1
+Philippines,Total,1988,1
+Philippines,Total,1992,1
+Philippines,Total,1996,1
+Philippines,Total,2016,1
+Philippines,Gold,1928,0
+Philippines,Gold,1932,0
+Philippines,Gold,1936,0
+Philippines,Gold,1964,0
+Philippines,Gold,1988,0
+Philippines,Gold,1992,0
+Philippines,Gold,1996,0
+Philippines,Gold,2016,0
+Philippines,Silver,1928,0
+Philippines,Silver,1932,0
+Philippines,Silver,1936,0
+Philippines,Silver,1964,1
+Philippines,Silver,1988,0
+Philippines,Silver,1992,0
+Philippines,Silver,1996,1
+Philippines,Silver,2016,1
+Philippines,Bronze,1928,1
+Philippines,Bronze,1932,3
+Philippines,Bronze,1936,1
+Philippines,Bronze,1964,0
+Philippines,Bronze,1988,1
+Philippines,Bronze,1992,1
+Philippines,Bronze,1996,0
+Philippines,Bronze,2016,0
+Poland,Total,1924,2
+Poland,Total,1928,5
+Poland,Total,1932,7
+Poland,Total,1936,6
+Poland,Total,1948,1
+Poland,Total,1952,4
+Poland,Total,1956,9
+Poland,Total,1960,21
+Poland,Total,1964,23
+Poland,Total,1968,18
+Poland,Total,1972,21
+Poland,Total,1976,26
+Poland,Total,1980,32
+Poland,Total,1988,16
+Poland,Total,1992,19
+Poland,Total,1996,17
+Poland,Total,2000,14
+Poland,Total,2004,10
+Poland,Total,2008,10
+Poland,Total,2012,10
+Poland,Total,2016,1
+Poland,Gold,1924,0
+Poland,Gold,1928,1
+Poland,Gold,1932,2
+Poland,Gold,1936,0
+Poland,Gold,1948,0
+Poland,Gold,1952,1
+Poland,Gold,1956,1
+Poland,Gold,1960,4
+Poland,Gold,1964,7
+Poland,Gold,1968,5
+Poland,Gold,1972,7
+Poland,Gold,1976,7
+Poland,Gold,1980,3
+Poland,Gold,1988,2
+Poland,Gold,1992,3
+Poland,Gold,1996,7
+Poland,Gold,2000,6
+Poland,Gold,2004,3
+Poland,Gold,2008,3
+Poland,Gold,2012,2
+Poland,Gold,2016,0
+Poland,Silver,1924,1
+Poland,Silver,1928,1
+Poland,Silver,1932,1
+Poland,Silver,1936,3
+Poland,Silver,1948,0
+Poland,Silver,1952,2
+Poland,Silver,1956,4
+Poland,Silver,1960,6
+Poland,Silver,1964,6
+Poland,Silver,1968,2
+Poland,Silver,1972,5
+Poland,Silver,1976,6
+Poland,Silver,1980,14
+Poland,Silver,1988,5
+Poland,Silver,1992,6
+Poland,Silver,1996,5
+Poland,Silver,2000,5
+Poland,Silver,2004,2
+Poland,Silver,2008,6
+Poland,Silver,2012,2
+Poland,Silver,2016,0
+Poland,Bronze,1924,1
+Poland,Bronze,1928,3
+Poland,Bronze,1932,4
+Poland,Bronze,1936,3
+Poland,Bronze,1948,1
+Poland,Bronze,1952,1
+Poland,Bronze,1956,4
+Poland,Bronze,1960,11
+Poland,Bronze,1964,10
+Poland,Bronze,1968,11
+Poland,Bronze,1972,9
+Poland,Bronze,1976,13
+Poland,Bronze,1980,15
+Poland,Bronze,1988,9
+Poland,Bronze,1992,10
+Poland,Bronze,1996,5
+Poland,Bronze,2000,3
+Poland,Bronze,2004,5
+Poland,Bronze,2008,1
+Poland,Bronze,2012,6
+Poland,Bronze,2016,1
+Portugal,Total,1924,1
+Portugal,Total,1928,1
+Portugal,Total,1936,1
+Portugal,Total,1948,2
+Portugal,Total,1952,1
+Portugal,Total,1960,1
+Portugal,Total,1976,2
+Portugal,Total,1984,3
+Portugal,Total,1988,1
+Portugal,Total,1996,2
+Portugal,Total,2000,2
+Portugal,Total,2004,3
+Portugal,Total,2008,2
+Portugal,Total,2012,1
+Portugal,Total,2016,1
+Portugal,Gold,1924,0
+Portugal,Gold,1928,0
+Portugal,Gold,1936,0
+Portugal,Gold,1948,0
+Portugal,Gold,1952,0
+Portugal,Gold,1960,0
+Portugal,Gold,1976,0
+Portugal,Gold,1984,1
+Portugal,Gold,1988,1
+Portugal,Gold,1996,1
+Portugal,Gold,2000,0
+Portugal,Gold,2004,0
+Portugal,Gold,2008,1
+Portugal,Gold,2012,0
+Portugal,Gold,2016,0
+Portugal,Silver,1924,0
+Portugal,Silver,1928,0
+Portugal,Silver,1936,0
+Portugal,Silver,1948,1
+Portugal,Silver,1952,0
+Portugal,Silver,1960,1
+Portugal,Silver,1976,2
+Portugal,Silver,1984,0
+Portugal,Silver,1988,0
+Portugal,Silver,1996,0
+Portugal,Silver,2000,0
+Portugal,Silver,2004,2
+Portugal,Silver,2008,1
+Portugal,Silver,2012,1
+Portugal,Silver,2016,0
+Portugal,Bronze,1924,1
+Portugal,Bronze,1928,1
+Portugal,Bronze,1936,1
+Portugal,Bronze,1948,1
+Portugal,Bronze,1952,1
+Portugal,Bronze,1960,0
+Portugal,Bronze,1976,0
+Portugal,Bronze,1984,2
+Portugal,Bronze,1988,0
+Portugal,Bronze,1996,1
+Portugal,Bronze,2000,2
+Portugal,Bronze,2004,1
+Portugal,Bronze,2008,0
+Portugal,Bronze,2012,0
+Portugal,Bronze,2016,1
+Puerto Rico,Total,1948,1
+Puerto Rico,Total,1976,1
+Puerto Rico,Total,1984,2
+Puerto Rico,Total,1992,1
+Puerto Rico,Total,1996,1
+Puerto Rico,Total,2012,2
+Puerto Rico,Gold,1948,0
+Puerto Rico,Gold,1976,0
+Puerto Rico,Gold,1984,0
+Puerto Rico,Gold,1992,0
+Puerto Rico,Gold,1996,0
+Puerto Rico,Gold,2012,0
+Puerto Rico,Silver,1948,0
+Puerto Rico,Silver,1976,0
+Puerto Rico,Silver,1984,1
+Puerto Rico,Silver,1992,0
+Puerto Rico,Silver,1996,0
+Puerto Rico,Silver,2012,1
+Puerto Rico,Bronze,1948,1
+Puerto Rico,Bronze,1976,1
+Puerto Rico,Bronze,1984,1
+Puerto Rico,Bronze,1992,1
+Puerto Rico,Bronze,1996,1
+Puerto Rico,Bronze,2012,1
+Qatar,Total,1992,1
+Qatar,Total,2000,1
+Qatar,Total,2012,2
+Qatar,Gold,1992,0
+Qatar,Gold,2000,0
+Qatar,Gold,2012,0
+Qatar,Silver,1992,0
+Qatar,Silver,2000,0
+Qatar,Silver,2012,0
+Qatar,Bronze,1992,1
+Qatar,Bronze,2000,1
+Qatar,Bronze,2012,2
+Republic of China,Total,1960,1
+Republic of China,Total,1968,1
+Republic of China,Gold,1960,0
+Republic of China,Gold,1968,0
+Republic of China,Silver,1960,1
+Republic of China,Silver,1968,0
+Republic of China,Bronze,1960,0
+Republic of China,Bronze,1968,1
+Romania,Total,1924,1
+Romania,Total,1936,1
+Romania,Total,1952,4
+Romania,Total,1956,13
+Romania,Total,1960,10
+Romania,Total,1964,12
+Romania,Total,1968,15
+Romania,Total,1972,16
+Romania,Total,1976,27
+Romania,Total,1980,25
+Romania,Total,1984,53
+Romania,Total,1988,24
+Romania,Total,1992,18
+Romania,Total,1996,20
+Romania,Total,2000,26
+Romania,Total,2004,19
+Romania,Total,2008,8
+Romania,Total,2012,9
+Romania,Gold,1924,0
+Romania,Gold,1936,0
+Romania,Gold,1952,1
+Romania,Gold,1956,5
+Romania,Gold,1960,3
+Romania,Gold,1964,2
+Romania,Gold,1968,4
+Romania,Gold,1972,3
+Romania,Gold,1976,4
+Romania,Gold,1980,6
+Romania,Gold,1984,20
+Romania,Gold,1988,7
+Romania,Gold,1992,4
+Romania,Gold,1996,4
+Romania,Gold,2000,11
+Romania,Gold,2004,8
+Romania,Gold,2008,4
+Romania,Gold,2012,2
+Romania,Silver,1924,0
+Romania,Silver,1936,1
+Romania,Silver,1952,1
+Romania,Silver,1956,3
+Romania,Silver,1960,1
+Romania,Silver,1964,4
+Romania,Silver,1968,6
+Romania,Silver,1972,6
+Romania,Silver,1976,9
+Romania,Silver,1980,6
+Romania,Silver,1984,16
+Romania,Silver,1988,11
+Romania,Silver,1992,6
+Romania,Silver,1996,7
+Romania,Silver,2000,6
+Romania,Silver,2004,5
+Romania,Silver,2008,1
+Romania,Silver,2012,5
+Romania,Bronze,1924,1
+Romania,Bronze,1936,0
+Romania,Bronze,1952,2
+Romania,Bronze,1956,5
+Romania,Bronze,1960,6
+Romania,Bronze,1964,6
+Romania,Bronze,1968,5
+Romania,Bronze,1972,7
+Romania,Bronze,1976,14
+Romania,Bronze,1980,13
+Romania,Bronze,1984,17
+Romania,Bronze,1988,6
+Romania,Bronze,1992,8
+Romania,Bronze,1996,9
+Romania,Bronze,2000,9
+Romania,Bronze,2004,6
+Romania,Bronze,2008,3
+Romania,Bronze,2012,2
+Russia,Total,1996,63
+Russia,Total,2000,89
+Russia,Total,2004,90
+Russia,Total,2008,73
+Russia,Total,2012,79
+Russia,Total,2016,12
+Russia,Gold,1996,26
+Russia,Gold,2000,32
+Russia,Gold,2004,28
+Russia,Gold,2008,23
+Russia,Gold,2012,22
+Russia,Gold,2016,3
+Russia,Silver,1996,21
+Russia,Silver,2000,28
+Russia,Silver,2004,26
+Russia,Silver,2008,21
+Russia,Silver,2012,25
+Russia,Silver,2016,6
+Russia,Bronze,1996,16
+Russia,Bronze,2000,29
+Russia,Bronze,2004,36
+Russia,Bronze,2008,29
+Russia,Bronze,2012,32
+Russia,Bronze,2016,3
+Russian Empire,Total,1908,3
+Russian Empire,Total,1912,5
+Russian Empire,Gold,1908,1
+Russian Empire,Gold,1912,0
+Russian Empire,Silver,1908,2
+Russian Empire,Silver,1912,2
+Russian Empire,Bronze,1908,0
+Russian Empire,Bronze,1912,3
+Saudi Arabia,Total,2000,2
+Saudi Arabia,Total,2012,1
+Saudi Arabia,Gold,2000,0
+Saudi Arabia,Gold,2012,0
+Saudi Arabia,Silver,2000,1
+Saudi Arabia,Silver,2012,0
+Saudi Arabia,Bronze,2000,1
+Saudi Arabia,Bronze,2012,1
+Senegal,Total,1988,1
+Senegal,Gold,1988,0
+Senegal,Silver,1988,1
+Senegal,Bronze,1988,0
+Serbia,Total,2008,3
+Serbia,Total,2012,4
+Serbia,Gold,2008,0
+Serbia,Gold,2012,1
+Serbia,Silver,2008,1
+Serbia,Silver,2012,1
+Serbia,Bronze,2008,2
+Serbia,Bronze,2012,2
+Serbia and Montenegro,Total,2004,2
+Serbia and Montenegro,Gold,2004,0
+Serbia and Montenegro,Silver,2004,2
+Serbia and Montenegro,Bronze,2004,0
+Singapore,Total,1960,1
+Singapore,Total,2008,1
+Singapore,Total,2012,2
+Singapore,Gold,1960,0
+Singapore,Gold,2008,0
+Singapore,Gold,2012,0
+Singapore,Silver,1960,1
+Singapore,Silver,2008,1
+Singapore,Silver,2012,0
+Singapore,Bronze,1960,0
+Singapore,Bronze,2008,0
+Singapore,Bronze,2012,2
+Slovakia,Total,1996,3
+Slovakia,Total,2000,5
+Slovakia,Total,2004,6
+Slovakia,Total,2008,6
+Slovakia,Total,2012,4
+Slovakia,Total,2016,1
+Slovakia,Gold,1996,1
+Slovakia,Gold,2000,1
+Slovakia,Gold,2004,2
+Slovakia,Gold,2008,3
+Slovakia,Gold,2012,0
+Slovakia,Gold,2016,0
+Slovakia,Silver,1996,1
+Slovakia,Silver,2000,3
+Slovakia,Silver,2004,2
+Slovakia,Silver,2008,2
+Slovakia,Silver,2012,1
+Slovakia,Silver,2016,1
+Slovakia,Bronze,1996,1
+Slovakia,Bronze,2000,1
+Slovakia,Bronze,2004,2
+Slovakia,Bronze,2008,1
+Slovakia,Bronze,2012,3
+Slovakia,Bronze,2016,0
+Slovenia,Total,1992,2
+Slovenia,Total,1996,2
+Slovenia,Total,2000,2
+Slovenia,Total,2004,4
+Slovenia,Total,2008,5
+Slovenia,Total,2012,4
+Slovenia,Total,2016,1
+Slovenia,Gold,1992,0
+Slovenia,Gold,1996,0
+Slovenia,Gold,2000,2
+Slovenia,Gold,2004,0
+Slovenia,Gold,2008,1
+Slovenia,Gold,2012,1
+Slovenia,Gold,2016,1
+Slovenia,Silver,1992,0
+Slovenia,Silver,1996,2
+Slovenia,Silver,2000,0
+Slovenia,Silver,2004,1
+Slovenia,Silver,2008,2
+Slovenia,Silver,2012,1
+Slovenia,Silver,2016,0
+Slovenia,Bronze,1992,2
+Slovenia,Bronze,1996,0
+Slovenia,Bronze,2000,0
+Slovenia,Bronze,2004,3
+Slovenia,Bronze,2008,2
+Slovenia,Bronze,2012,2
+Slovenia,Bronze,2016,0
+South Africa,Total,1908,2
+South Africa,Total,1912,6
+South Africa,Total,1920,10
+South Africa,Total,1924,3
+South Africa,Total,1928,3
+South Africa,Total,1932,5
+South Africa,Total,1936,1
+South Africa,Total,1948,4
+South Africa,Total,1952,10
+South Africa,Total,1956,4
+South Africa,Total,1960,3
+South Africa,Total,1992,2
+South Africa,Total,1996,5
+South Africa,Total,2000,5
+South Africa,Total,2004,6
+South Africa,Total,2008,1
+South Africa,Total,2012,6
+South Africa,Total,2016,2
+South Africa,Gold,1908,1
+South Africa,Gold,1912,4
+South Africa,Gold,1920,3
+South Africa,Gold,1924,1
+South Africa,Gold,1928,1
+South Africa,Gold,1932,2
+South Africa,Gold,1936,0
+South Africa,Gold,1948,2
+South Africa,Gold,1952,2
+South Africa,Gold,1956,0
+South Africa,Gold,1960,0
+South Africa,Gold,1992,0
+South Africa,Gold,1996,3
+South Africa,Gold,2000,0
+South Africa,Gold,2004,1
+South Africa,Gold,2008,0
+South Africa,Gold,2012,3
+South Africa,Gold,2016,0
+South Africa,Silver,1908,1
+South Africa,Silver,1912,2
+South Africa,Silver,1920,4
+South Africa,Silver,1924,1
+South Africa,Silver,1928,0
+South Africa,Silver,1932,0
+South Africa,Silver,1936,1
+South Africa,Silver,1948,1
+South Africa,Silver,1952,4
+South Africa,Silver,1956,0
+South Africa,Silver,1960,1
+South Africa,Silver,1992,2
+South Africa,Silver,1996,1
+South Africa,Silver,2000,2
+South Africa,Silver,2004,3
+South Africa,Silver,2008,1
+South Africa,Silver,2012,2
+South Africa,Silver,2016,2
+South Africa,Bronze,1908,0
+South Africa,Bronze,1912,0
+South Africa,Bronze,1920,3
+South Africa,Bronze,1924,1
+South Africa,Bronze,1928,2
+South Africa,Bronze,1932,3
+South Africa,Bronze,1936,0
+South Africa,Bronze,1948,1
+South Africa,Bronze,1952,4
+South Africa,Bronze,1956,4
+South Africa,Bronze,1960,2
+South Africa,Bronze,1992,0
+South Africa,Bronze,1996,1
+South Africa,Bronze,2000,3
+South Africa,Bronze,2004,2
+South Africa,Bronze,2008,0
+South Africa,Bronze,2012,1
+South Africa,Bronze,2016,0
+South Korea,Total,1948,2
+South Korea,Total,1952,2
+South Korea,Total,1956,2
+South Korea,Total,1964,3
+South Korea,Total,1968,2
+South Korea,Total,1972,1
+South Korea,Total,1976,6
+South Korea,Total,1984,19
+South Korea,Total,1988,33
+South Korea,Total,1992,29
+South Korea,Total,1996,27
+South Korea,Total,2000,28
+South Korea,Total,2004,30
+South Korea,Total,2008,31
+South Korea,Total,2012,28
+South Korea,Total,2016,6
+South Korea,Gold,1948,0
+South Korea,Gold,1952,0
+South Korea,Gold,1956,0
+South Korea,Gold,1964,0
+South Korea,Gold,1968,0
+South Korea,Gold,1972,0
+South Korea,Gold,1976,1
+South Korea,Gold,1984,6
+South Korea,Gold,1988,12
+South Korea,Gold,1992,12
+South Korea,Gold,1996,7
+South Korea,Gold,2000,8
+South Korea,Gold,2004,9
+South Korea,Gold,2008,13
+South Korea,Gold,2012,13
+South Korea,Gold,2016,3
+South Korea,Silver,1948,0
+South Korea,Silver,1952,0
+South Korea,Silver,1956,1
+South Korea,Silver,1964,2
+South Korea,Silver,1968,1
+South Korea,Silver,1972,1
+South Korea,Silver,1976,1
+South Korea,Silver,1984,6
+South Korea,Silver,1988,10
+South Korea,Silver,1992,5
+South Korea,Silver,1996,15
+South Korea,Silver,2000,10
+South Korea,Silver,2004,12
+South Korea,Silver,2008,10
+South Korea,Silver,2012,8
+South Korea,Silver,2016,2
+South Korea,Bronze,1948,2
+South Korea,Bronze,1952,2
+South Korea,Bronze,1956,1
+South Korea,Bronze,1964,1
+South Korea,Bronze,1968,1
+South Korea,Bronze,1972,0
+South Korea,Bronze,1976,4
+South Korea,Bronze,1984,7
+South Korea,Bronze,1988,11
+South Korea,Bronze,1992,12
+South Korea,Bronze,1996,5
+South Korea,Bronze,2000,10
+South Korea,Bronze,2004,9
+South Korea,Bronze,2008,8
+South Korea,Bronze,2012,7
+South Korea,Bronze,2016,1
+Soviet Union,Total,1952,71
+Soviet Union,Total,1956,98
+Soviet Union,Total,1960,103
+Soviet Union,Total,1964,96
+Soviet Union,Total,1968,91
+Soviet Union,Total,1972,99
+Soviet Union,Total,1976,125
+Soviet Union,Total,1980,195
+Soviet Union,Total,1988,132
+Soviet Union,Gold,1952,22
+Soviet Union,Gold,1956,37
+Soviet Union,Gold,1960,43
+Soviet Union,Gold,1964,30
+Soviet Union,Gold,1968,29
+Soviet Union,Gold,1972,50
+Soviet Union,Gold,1976,49
+Soviet Union,Gold,1980,80
+Soviet Union,Gold,1988,55
+Soviet Union,Silver,1952,30
+Soviet Union,Silver,1956,29
+Soviet Union,Silver,1960,29
+Soviet Union,Silver,1964,31
+Soviet Union,Silver,1968,32
+Soviet Union,Silver,1972,27
+Soviet Union,Silver,1976,41
+Soviet Union,Silver,1980,69
+Soviet Union,Silver,1988,31
+Soviet Union,Bronze,1952,19
+Soviet Union,Bronze,1956,32
+Soviet Union,Bronze,1960,31
+Soviet Union,Bronze,1964,35
+Soviet Union,Bronze,1968,30
+Soviet Union,Bronze,1972,22
+Soviet Union,Bronze,1976,35
+Soviet Union,Bronze,1980,46
+Soviet Union,Bronze,1988,46
+Spain,Total,1900,1
+Spain,Total,1920,2
+Spain,Total,1928,1
+Spain,Total,1932,1
+Spain,Total,1948,1
+Spain,Total,1952,1
+Spain,Total,1960,1
+Spain,Total,1972,1
+Spain,Total,1976,2
+Spain,Total,1980,6
+Spain,Total,1984,5
+Spain,Total,1988,4
+Spain,Total,1992,22
+Spain,Total,1996,17
+Spain,Total,2000,11
+Spain,Total,2004,20
+Spain,Total,2008,18
+Spain,Total,2012,17
+Spain,Total,2016,1
+Spain,Gold,1900,1
+Spain,Gold,1920,0
+Spain,Gold,1928,1
+Spain,Gold,1932,0
+Spain,Gold,1948,0
+Spain,Gold,1952,0
+Spain,Gold,1960,0
+Spain,Gold,1972,0
+Spain,Gold,1976,0
+Spain,Gold,1980,1
+Spain,Gold,1984,1
+Spain,Gold,1988,1
+Spain,Gold,1992,13
+Spain,Gold,1996,5
+Spain,Gold,2000,3
+Spain,Gold,2004,3
+Spain,Gold,2008,5
+Spain,Gold,2012,3
+Spain,Gold,2016,0
+Spain,Silver,1900,0
+Spain,Silver,1920,2
+Spain,Silver,1928,0
+Spain,Silver,1932,0
+Spain,Silver,1948,1
+Spain,Silver,1952,1
+Spain,Silver,1960,0
+Spain,Silver,1972,0
+Spain,Silver,1976,2
+Spain,Silver,1980,3
+Spain,Silver,1984,2
+Spain,Silver,1988,1
+Spain,Silver,1992,7
+Spain,Silver,1996,6
+Spain,Silver,2000,3
+Spain,Silver,2004,11
+Spain,Silver,2008,10
+Spain,Silver,2012,10
+Spain,Silver,2016,0
+Spain,Bronze,1900,0
+Spain,Bronze,1920,0
+Spain,Bronze,1928,0
+Spain,Bronze,1932,1
+Spain,Bronze,1948,0
+Spain,Bronze,1952,0
+Spain,Bronze,1960,1
+Spain,Bronze,1972,1
+Spain,Bronze,1976,0
+Spain,Bronze,1980,2
+Spain,Bronze,1984,2
+Spain,Bronze,1988,2
+Spain,Bronze,1992,2
+Spain,Bronze,1996,6
+Spain,Bronze,2000,5
+Spain,Bronze,2004,6
+Spain,Bronze,2008,3
+Spain,Bronze,2012,4
+Spain,Bronze,2016,1
+Sri Lanka,Total,2000,1
+Sri Lanka,Gold,2000,0
+Sri Lanka,Silver,2000,1
+Sri Lanka,Bronze,2000,0
+Sudan,Total,2008,1
+Sudan,Gold,2008,0
+Sudan,Silver,2008,1
+Sudan,Bronze,2008,0
+Suriname,Total,1988,1
+Suriname,Total,1992,1
+Suriname,Gold,1988,1
+Suriname,Gold,1992,0
+Suriname,Silver,1988,0
+Suriname,Silver,1992,0
+Suriname,Bronze,1988,0
+Suriname,Bronze,1992,1
+Sweden,Total,1900,1
+Sweden,Total,1908,25
+Sweden,Total,1912,65
+Sweden,Total,1920,64
+Sweden,Total,1924,29
+Sweden,Total,1928,25
+Sweden,Total,1932,23
+Sweden,Total,1936,20
+Sweden,Total,1948,44
+Sweden,Total,1952,35
+Sweden,Total,1956,19
+Sweden,Total,1960,6
+Sweden,Total,1964,8
+Sweden,Total,1968,4
+Sweden,Total,1972,16
+Sweden,Total,1976,5
+Sweden,Total,1980,12
+Sweden,Total,1984,19
+Sweden,Total,1988,11
+Sweden,Total,1992,12
+Sweden,Total,1996,8
+Sweden,Total,2000,12
+Sweden,Total,2004,7
+Sweden,Total,2008,5
+Sweden,Total,2012,8
+Sweden,Total,2016,3
+Sweden,Gold,1900,0
+Sweden,Gold,1908,8
+Sweden,Gold,1912,24
+Sweden,Gold,1920,19
+Sweden,Gold,1924,4
+Sweden,Gold,1928,7
+Sweden,Gold,1932,9
+Sweden,Gold,1936,6
+Sweden,Gold,1948,16
+Sweden,Gold,1952,12
+Sweden,Gold,1956,8
+Sweden,Gold,1960,1
+Sweden,Gold,1964,2
+Sweden,Gold,1968,2
+Sweden,Gold,1972,4
+Sweden,Gold,1976,4
+Sweden,Gold,1980,3
+Sweden,Gold,1984,2
+Sweden,Gold,1988,0
+Sweden,Gold,1992,1
+Sweden,Gold,1996,2
+Sweden,Gold,2000,4
+Sweden,Gold,2004,4
+Sweden,Gold,2008,0
+Sweden,Gold,2012,1
+Sweden,Gold,2016,1
+Sweden,Silver,1900,0
+Sweden,Silver,1908,6
+Sweden,Silver,1912,24
+Sweden,Silver,1920,20
+Sweden,Silver,1924,13
+Sweden,Silver,1928,6
+Sweden,Silver,1932,5
+Sweden,Silver,1936,5
+Sweden,Silver,1948,11
+Sweden,Silver,1952,13
+Sweden,Silver,1956,5
+Sweden,Silver,1960,2
+Sweden,Silver,1964,2
+Sweden,Silver,1968,1
+Sweden,Silver,1972,6
+Sweden,Silver,1976,1
+Sweden,Silver,1980,3
+Sweden,Silver,1984,11
+Sweden,Silver,1988,4
+Sweden,Silver,1992,7
+Sweden,Silver,1996,4
+Sweden,Silver,2000,5
+Sweden,Silver,2004,2
+Sweden,Silver,2008,4
+Sweden,Silver,2012,4
+Sweden,Silver,2016,2
+Sweden,Bronze,1900,1
+Sweden,Bronze,1908,11
+Sweden,Bronze,1912,17
+Sweden,Bronze,1920,25
+Sweden,Bronze,1924,12
+Sweden,Bronze,1928,12
+Sweden,Bronze,1932,9
+Sweden,Bronze,1936,9
+Sweden,Bronze,1948,17
+Sweden,Bronze,1952,10
+Sweden,Bronze,1956,6
+Sweden,Bronze,1960,3
+Sweden,Bronze,1964,4
+Sweden,Bronze,1968,1
+Sweden,Bronze,1972,6
+Sweden,Bronze,1976,0
+Sweden,Bronze,1980,6
+Sweden,Bronze,1984,6
+Sweden,Bronze,1988,7
+Sweden,Bronze,1992,4
+Sweden,Bronze,1996,2
+Sweden,Bronze,2000,3
+Sweden,Bronze,2004,1
+Sweden,Bronze,2008,1
+Sweden,Bronze,2012,3
+Sweden,Bronze,2016,0
+Switzerland,Total,1896,3
+Switzerland,Total,1900,9
+Switzerland,Total,1904,2
+Switzerland,Total,1920,11
+Switzerland,Total,1924,25
+Switzerland,Total,1928,15
+Switzerland,Total,1932,1
+Switzerland,Total,1936,15
+Switzerland,Total,1948,20
+Switzerland,Total,1952,14
+Switzerland,Total,1956,1
+Switzerland,Total,1960,6
+Switzerland,Total,1964,4
+Switzerland,Total,1968,5
+Switzerland,Total,1972,3
+Switzerland,Total,1976,4
+Switzerland,Total,1980,2
+Switzerland,Total,1984,8
+Switzerland,Total,1988,4
+Switzerland,Total,1992,1
+Switzerland,Total,1996,7
+Switzerland,Total,2000,9
+Switzerland,Total,2004,5
+Switzerland,Total,2008,7
+Switzerland,Total,2012,4
+Switzerland,Total,2016,1
+Switzerland,Gold,1896,1
+Switzerland,Gold,1900,6
+Switzerland,Gold,1904,1
+Switzerland,Gold,1920,2
+Switzerland,Gold,1924,7
+Switzerland,Gold,1928,7
+Switzerland,Gold,1932,0
+Switzerland,Gold,1936,1
+Switzerland,Gold,1948,5
+Switzerland,Gold,1952,2
+Switzerland,Gold,1956,0
+Switzerland,Gold,1960,0
+Switzerland,Gold,1964,1
+Switzerland,Gold,1968,0
+Switzerland,Gold,1972,0
+Switzerland,Gold,1976,1
+Switzerland,Gold,1980,2
+Switzerland,Gold,1984,0
+Switzerland,Gold,1988,0
+Switzerland,Gold,1992,1
+Switzerland,Gold,1996,4
+Switzerland,Gold,2000,1
+Switzerland,Gold,2004,1
+Switzerland,Gold,2008,2
+Switzerland,Gold,2012,2
+Switzerland,Gold,2016,0
+Switzerland,Silver,1896,2
+Switzerland,Silver,1900,2
+Switzerland,Silver,1904,0
+Switzerland,Silver,1920,2
+Switzerland,Silver,1924,8
+Switzerland,Silver,1928,4
+Switzerland,Silver,1932,1
+Switzerland,Silver,1936,9
+Switzerland,Silver,1948,10
+Switzerland,Silver,1952,6
+Switzerland,Silver,1956,0
+Switzerland,Silver,1960,3
+Switzerland,Silver,1964,2
+Switzerland,Silver,1968,1
+Switzerland,Silver,1972,3
+Switzerland,Silver,1976,1
+Switzerland,Silver,1980,0
+Switzerland,Silver,1984,4
+Switzerland,Silver,1988,2
+Switzerland,Silver,1992,0
+Switzerland,Silver,1996,3
+Switzerland,Silver,2000,6
+Switzerland,Silver,2004,1
+Switzerland,Silver,2008,1
+Switzerland,Silver,2012,2
+Switzerland,Silver,2016,0
+Switzerland,Bronze,1896,0
+Switzerland,Bronze,1900,1
+Switzerland,Bronze,1904,1
+Switzerland,Bronze,1920,7
+Switzerland,Bronze,1924,10
+Switzerland,Bronze,1928,4
+Switzerland,Bronze,1932,0
+Switzerland,Bronze,1936,5
+Switzerland,Bronze,1948,5
+Switzerland,Bronze,1952,6
+Switzerland,Bronze,1956,1
+Switzerland,Bronze,1960,3
+Switzerland,Bronze,1964,1
+Switzerland,Bronze,1968,4
+Switzerland,Bronze,1972,0
+Switzerland,Bronze,1976,2
+Switzerland,Bronze,1980,0
+Switzerland,Bronze,1984,4
+Switzerland,Bronze,1988,2
+Switzerland,Bronze,1992,0
+Switzerland,Bronze,1996,0
+Switzerland,Bronze,2000,2
+Switzerland,Bronze,2004,3
+Switzerland,Bronze,2008,4
+Switzerland,Bronze,2012,0
+Switzerland,Bronze,2016,1
+Syria,Total,1984,1
+Syria,Total,1996,1
+Syria,Total,2004,1
+Syria,Gold,1984,0
+Syria,Gold,1996,1
+Syria,Gold,2004,0
+Syria,Silver,1984,1
+Syria,Silver,1996,0
+Syria,Silver,2004,0
+Syria,Bronze,1984,0
+Syria,Bronze,1996,0
+Syria,Bronze,2004,1
+Tajikistan,Total,2008,2
+Tajikistan,Total,2012,1
+Tajikistan,Gold,2008,0
+Tajikistan,Gold,2012,0
+Tajikistan,Silver,2008,1
+Tajikistan,Silver,2012,0
+Tajikistan,Bronze,2008,1
+Tajikistan,Bronze,2012,1
+Tanzania,Total,1980,2
+Tanzania,Gold,1980,0
+Tanzania,Silver,1980,2
+Tanzania,Bronze,1980,0
+Thailand,Total,1976,1
+Thailand,Total,1984,1
+Thailand,Total,1988,1
+Thailand,Total,1992,1
+Thailand,Total,1996,2
+Thailand,Total,2000,3
+Thailand,Total,2004,8
+Thailand,Total,2008,4
+Thailand,Total,2012,4
+Thailand,Total,2016,4
+Thailand,Gold,1976,0
+Thailand,Gold,1984,0
+Thailand,Gold,1988,0
+Thailand,Gold,1992,0
+Thailand,Gold,1996,1
+Thailand,Gold,2000,1
+Thailand,Gold,2004,3
+Thailand,Gold,2008,2
+Thailand,Gold,2012,0
+Thailand,Gold,2016,2
+Thailand,Silver,1976,0
+Thailand,Silver,1984,1
+Thailand,Silver,1988,0
+Thailand,Silver,1992,0
+Thailand,Silver,1996,0
+Thailand,Silver,2000,0
+Thailand,Silver,2004,1
+Thailand,Silver,2008,2
+Thailand,Silver,2012,2
+Thailand,Silver,2016,1
+Thailand,Bronze,1976,1
+Thailand,Bronze,1984,0
+Thailand,Bronze,1988,1
+Thailand,Bronze,1992,1
+Thailand,Bronze,1996,1
+Thailand,Bronze,2000,2
+Thailand,Bronze,2004,4
+Thailand,Bronze,2008,0
+Thailand,Bronze,2012,2
+Thailand,Bronze,2016,1
+Togo,Total,2008,1
+Togo,Gold,2008,0
+Togo,Silver,2008,0
+Togo,Bronze,2008,1
+Tonga,Total,1996,1
+Tonga,Gold,1996,0
+Tonga,Silver,1996,1
+Tonga,Bronze,1996,0
+Trinidad and Tobago,Total,1948,1
+Trinidad and Tobago,Total,1952,2
+Trinidad and Tobago,Total,1964,3
+Trinidad and Tobago,Total,1976,1
+Trinidad and Tobago,Total,1996,2
+Trinidad and Tobago,Total,2000,2
+Trinidad and Tobago,Total,2004,1
+Trinidad and Tobago,Total,2008,2
+Trinidad and Tobago,Total,2012,4
+Trinidad and Tobago,Gold,1948,0
+Trinidad and Tobago,Gold,1952,0
+Trinidad and Tobago,Gold,1964,0
+Trinidad and Tobago,Gold,1976,1
+Trinidad and Tobago,Gold,1996,0
+Trinidad and Tobago,Gold,2000,0
+Trinidad and Tobago,Gold,2004,0
+Trinidad and Tobago,Gold,2008,0
+Trinidad and Tobago,Gold,2012,1
+Trinidad and Tobago,Silver,1948,1
+Trinidad and Tobago,Silver,1952,0
+Trinidad and Tobago,Silver,1964,1
+Trinidad and Tobago,Silver,1976,0
+Trinidad and Tobago,Silver,1996,0
+Trinidad and Tobago,Silver,2000,1
+Trinidad and Tobago,Silver,2004,0
+Trinidad and Tobago,Silver,2008,2
+Trinidad and Tobago,Silver,2012,0
+Trinidad and Tobago,Bronze,1948,0
+Trinidad and Tobago,Bronze,1952,2
+Trinidad and Tobago,Bronze,1964,2
+Trinidad and Tobago,Bronze,1976,0
+Trinidad and Tobago,Bronze,1996,2
+Trinidad and Tobago,Bronze,2000,1
+Trinidad and Tobago,Bronze,2004,1
+Trinidad and Tobago,Bronze,2008,0
+Trinidad and Tobago,Bronze,2012,3
+Tunisia,Total,1964,2
+Tunisia,Total,1968,2
+Tunisia,Total,1972,1
+Tunisia,Total,1996,1
+Tunisia,Total,2008,1
+Tunisia,Total,2012,3
+Tunisia,Gold,1964,0
+Tunisia,Gold,1968,1
+Tunisia,Gold,1972,0
+Tunisia,Gold,1996,0
+Tunisia,Gold,2008,1
+Tunisia,Gold,2012,2
+Tunisia,Silver,1964,1
+Tunisia,Silver,1968,0
+Tunisia,Silver,1972,1
+Tunisia,Silver,1996,0
+Tunisia,Silver,2008,0
+Tunisia,Silver,2012,0
+Tunisia,Bronze,1964,1
+Tunisia,Bronze,1968,1
+Tunisia,Bronze,1972,0
+Tunisia,Bronze,1996,1
+Tunisia,Bronze,2008,0
+Tunisia,Bronze,2012,1
+Turkey,Total,1936,2
+Turkey,Total,1948,12
+Turkey,Total,1952,3
+Turkey,Total,1956,7
+Turkey,Total,1960,9
+Turkey,Total,1964,6
+Turkey,Total,1968,2
+Turkey,Total,1972,1
+Turkey,Total,1984,3
+Turkey,Total,1988,2
+Turkey,Total,1992,6
+Turkey,Total,1996,6
+Turkey,Total,2000,5
+Turkey,Total,2004,11
+Turkey,Total,2008,6
+Turkey,Total,2012,4
+Turkey,Total,2016,1
+Turkey,Gold,1936,1
+Turkey,Gold,1948,6
+Turkey,Gold,1952,2
+Turkey,Gold,1956,3
+Turkey,Gold,1960,7
+Turkey,Gold,1964,2
+Turkey,Gold,1968,2
+Turkey,Gold,1972,0
+Turkey,Gold,1984,0
+Turkey,Gold,1988,1
+Turkey,Gold,1992,2
+Turkey,Gold,1996,4
+Turkey,Gold,2000,3
+Turkey,Gold,2004,3
+Turkey,Gold,2008,1
+Turkey,Gold,2012,1
+Turkey,Gold,2016,0
+Turkey,Silver,1936,0
+Turkey,Silver,1948,4
+Turkey,Silver,1952,0
+Turkey,Silver,1956,2
+Turkey,Silver,1960,2
+Turkey,Silver,1964,3
+Turkey,Silver,1968,0
+Turkey,Silver,1972,1
+Turkey,Silver,1984,0
+Turkey,Silver,1988,1
+Turkey,Silver,1992,2
+Turkey,Silver,1996,1
+Turkey,Silver,2000,0
+Turkey,Silver,2004,3
+Turkey,Silver,2008,2
+Turkey,Silver,2012,2
+Turkey,Silver,2016,1
+Turkey,Bronze,1936,1
+Turkey,Bronze,1948,2
+Turkey,Bronze,1952,1
+Turkey,Bronze,1956,2
+Turkey,Bronze,1960,0
+Turkey,Bronze,1964,1
+Turkey,Bronze,1968,0
+Turkey,Bronze,1972,0
+Turkey,Bronze,1984,3
+Turkey,Bronze,1988,0
+Turkey,Bronze,1992,2
+Turkey,Bronze,1996,1
+Turkey,Bronze,2000,2
+Turkey,Bronze,2004,5
+Turkey,Bronze,2008,3
+Turkey,Bronze,2012,1
+Turkey,Bronze,2016,0
+Uganda,Total,1968,2
+Uganda,Total,1972,2
+Uganda,Total,1980,1
+Uganda,Total,1996,1
+Uganda,Total,2012,1
+Uganda,Gold,1968,0
+Uganda,Gold,1972,1
+Uganda,Gold,1980,0
+Uganda,Gold,1996,0
+Uganda,Gold,2012,1
+Uganda,Silver,1968,1
+Uganda,Silver,1972,1
+Uganda,Silver,1980,1
+Uganda,Silver,1996,0
+Uganda,Silver,2012,0
+Uganda,Bronze,1968,1
+Uganda,Bronze,1972,0
+Uganda,Bronze,1980,0
+Uganda,Bronze,1996,1
+Uganda,Bronze,2012,0
+Ukraine,Total,1996,23
+Ukraine,Total,2000,23
+Ukraine,Total,2004,22
+Ukraine,Total,2008,27
+Ukraine,Total,2012,18
+Ukraine,Total,2016,2
+Ukraine,Gold,1996,9
+Ukraine,Gold,2000,3
+Ukraine,Gold,2004,8
+Ukraine,Gold,2008,7
+Ukraine,Gold,2012,6
+Ukraine,Gold,2016,0
+Ukraine,Silver,1996,2
+Ukraine,Silver,2000,10
+Ukraine,Silver,2004,5
+Ukraine,Silver,2008,5
+Ukraine,Silver,2012,4
+Ukraine,Silver,2016,1
+Ukraine,Bronze,1996,12
+Ukraine,Bronze,2000,10
+Ukraine,Bronze,2004,9
+Ukraine,Bronze,2008,15
+Ukraine,Bronze,2012,8
+Ukraine,Bronze,2016,1
+Unified Team,Total,1992,112
+Unified Team,Gold,1992,45
+Unified Team,Silver,1992,38
+Unified Team,Bronze,1992,29
+United Arab Emirates,Total,2004,1
+United Arab Emirates,Total,2016,1
+United Arab Emirates,Gold,2004,1
+United Arab Emirates,Gold,2016,0
+United Arab Emirates,Silver,2004,0
+United Arab Emirates,Silver,2016,0
+United Arab Emirates,Bronze,2004,0
+United Arab Emirates,Bronze,2016,1
+United Arab Republic,Total,1960,2
+United Arab Republic,Gold,1960,0
+United Arab Republic,Silver,1960,1
+United Arab Republic,Bronze,1960,1
+Uruguay,Total,1924,1
+Uruguay,Total,1928,1
+Uruguay,Total,1932,1
+Uruguay,Total,1948,2
+Uruguay,Total,1952,2
+Uruguay,Total,1956,1
+Uruguay,Total,1964,1
+Uruguay,Total,2000,1
+Uruguay,Gold,1924,1
+Uruguay,Gold,1928,1
+Uruguay,Gold,1932,0
+Uruguay,Gold,1948,0
+Uruguay,Gold,1952,0
+Uruguay,Gold,1956,0
+Uruguay,Gold,1964,0
+Uruguay,Gold,2000,0
+Uruguay,Silver,1924,0
+Uruguay,Silver,1928,0
+Uruguay,Silver,1932,0
+Uruguay,Silver,1948,1
+Uruguay,Silver,1952,0
+Uruguay,Silver,1956,0
+Uruguay,Silver,1964,0
+Uruguay,Silver,2000,1
+Uruguay,Bronze,1924,0
+Uruguay,Bronze,1928,0
+Uruguay,Bronze,1932,1
+Uruguay,Bronze,1948,1
+Uruguay,Bronze,1952,2
+Uruguay,Bronze,1956,1
+Uruguay,Bronze,1964,1
+Uruguay,Bronze,2000,0
+Uzbekistan,Total,1996,2
+Uzbekistan,Total,2000,4
+Uzbekistan,Total,2004,5
+Uzbekistan,Total,2008,6
+Uzbekistan,Total,2012,3
+Uzbekistan,Total,2016,2
+Uzbekistan,Gold,1996,0
+Uzbekistan,Gold,2000,1
+Uzbekistan,Gold,2004,2
+Uzbekistan,Gold,2008,1
+Uzbekistan,Gold,2012,1
+Uzbekistan,Gold,2016,0
+Uzbekistan,Silver,1996,1
+Uzbekistan,Silver,2000,1
+Uzbekistan,Silver,2004,1
+Uzbekistan,Silver,2008,2
+Uzbekistan,Silver,2012,0
+Uzbekistan,Silver,2016,0
+Uzbekistan,Bronze,1996,1
+Uzbekistan,Bronze,2000,2
+Uzbekistan,Bronze,2004,2
+Uzbekistan,Bronze,2008,3
+Uzbekistan,Bronze,2012,2
+Uzbekistan,Bronze,2016,2
+Venezuela,Total,1952,1
+Venezuela,Total,1960,1
+Venezuela,Total,1968,1
+Venezuela,Total,1976,1
+Venezuela,Total,1980,1
+Venezuela,Total,1984,3
+Venezuela,Total,2004,2
+Venezuela,Total,2008,1
+Venezuela,Total,2012,1
+Venezuela,Gold,1952,0
+Venezuela,Gold,1960,0
+Venezuela,Gold,1968,1
+Venezuela,Gold,1976,0
+Venezuela,Gold,1980,0
+Venezuela,Gold,1984,0
+Venezuela,Gold,2004,0
+Venezuela,Gold,2008,0
+Venezuela,Gold,2012,1
+Venezuela,Silver,1952,0
+Venezuela,Silver,1960,0
+Venezuela,Silver,1968,0
+Venezuela,Silver,1976,1
+Venezuela,Silver,1980,1
+Venezuela,Silver,1984,0
+Venezuela,Silver,2004,0
+Venezuela,Silver,2008,0
+Venezuela,Silver,2012,0
+Venezuela,Bronze,1952,1
+Venezuela,Bronze,1960,1
+Venezuela,Bronze,1968,0
+Venezuela,Bronze,1976,0
+Venezuela,Bronze,1980,0
+Venezuela,Bronze,1984,3
+Venezuela,Bronze,2004,2
+Venezuela,Bronze,2008,1
+Venezuela,Bronze,2012,0
+Vietnam,Total,2000,1
+Vietnam,Total,2008,1
+Vietnam,Total,2016,1
+Vietnam,Gold,2000,0
+Vietnam,Gold,2008,0
+Vietnam,Gold,2016,1
+Vietnam,Silver,2000,1
+Vietnam,Silver,2008,1
+Vietnam,Silver,2016,0
+Vietnam,Bronze,2000,0
+Vietnam,Bronze,2008,0
+Vietnam,Bronze,2016,0
+Virgin Islands,Total,1988,1
+Virgin Islands,Gold,1988,0
+Virgin Islands,Silver,1988,1
+Virgin Islands,Bronze,1988,0
+West Germany,Total,1968,26
+West Germany,Total,1972,40
+West Germany,Total,1976,39
+West Germany,Total,1984,59
+West Germany,Total,1988,40
+West Germany,Gold,1968,5
+West Germany,Gold,1972,13
+West Germany,Gold,1976,10
+West Germany,Gold,1984,17
+West Germany,Gold,1988,11
+West Germany,Silver,1968,11
+West Germany,Silver,1972,11
+West Germany,Silver,1976,12
+West Germany,Silver,1984,19
+West Germany,Silver,1988,14
+West Germany,Bronze,1968,10
+West Germany,Bronze,1972,16
+West Germany,Bronze,1976,17
+West Germany,Bronze,1984,23
+West Germany,Bronze,1988,15
+Yugoslavia,Total,1924,2
+Yugoslavia,Total,1928,5
+Yugoslavia,Total,1936,1
+Yugoslavia,Total,1948,2
+Yugoslavia,Total,1952,3
+Yugoslavia,Total,1956,3
+Yugoslavia,Total,1960,2
+Yugoslavia,Total,1964,5
+Yugoslavia,Total,1968,8
+Yugoslavia,Total,1972,5
+Yugoslavia,Total,1976,8
+Yugoslavia,Total,1980,9
+Yugoslavia,Total,1984,18
+Yugoslavia,Total,1988,12
+Yugoslavia,Total,1996,4
+Yugoslavia,Total,2000,3
+Yugoslavia,Gold,1924,2
+Yugoslavia,Gold,1928,1
+Yugoslavia,Gold,1936,0
+Yugoslavia,Gold,1948,0
+Yugoslavia,Gold,1952,1
+Yugoslavia,Gold,1956,0
+Yugoslavia,Gold,1960,1
+Yugoslavia,Gold,1964,2
+Yugoslavia,Gold,1968,3
+Yugoslavia,Gold,1972,2
+Yugoslavia,Gold,1976,2
+Yugoslavia,Gold,1980,2
+Yugoslavia,Gold,1984,7
+Yugoslavia,Gold,1988,3
+Yugoslavia,Gold,1996,1
+Yugoslavia,Gold,2000,1
+Yugoslavia,Silver,1924,0
+Yugoslavia,Silver,1928,1
+Yugoslavia,Silver,1936,1
+Yugoslavia,Silver,1948,2
+Yugoslavia,Silver,1952,2
+Yugoslavia,Silver,1956,3
+Yugoslavia,Silver,1960,1
+Yugoslavia,Silver,1964,1
+Yugoslavia,Silver,1968,3
+Yugoslavia,Silver,1972,1
+Yugoslavia,Silver,1976,3
+Yugoslavia,Silver,1980,3
+Yugoslavia,Silver,1984,4
+Yugoslavia,Silver,1988,4
+Yugoslavia,Silver,1996,1
+Yugoslavia,Silver,2000,1
+Yugoslavia,Bronze,1924,0
+Yugoslavia,Bronze,1928,3
+Yugoslavia,Bronze,1936,0
+Yugoslavia,Bronze,1948,0
+Yugoslavia,Bronze,1952,0
+Yugoslavia,Bronze,1956,0
+Yugoslavia,Bronze,1960,0
+Yugoslavia,Bronze,1964,2
+Yugoslavia,Bronze,1968,2
+Yugoslavia,Bronze,1972,2
+Yugoslavia,Bronze,1976,3
+Yugoslavia,Bronze,1980,4
+Yugoslavia,Bronze,1984,7
+Yugoslavia,Bronze,1988,5
+Yugoslavia,Bronze,1996,2
+Yugoslavia,Bronze,2000,1
+Zambia,Total,1984,1
+Zambia,Total,1996,1
+Zambia,Gold,1984,0
+Zambia,Gold,1996,0
+Zambia,Silver,1984,0
+Zambia,Silver,1996,1
+Zambia,Bronze,1984,1
+Zambia,Bronze,1996,0
+Zimbabwe,Total,1980,1
+Zimbabwe,Total,2004,3
+Zimbabwe,Total,2008,4
+Zimbabwe,Gold,1980,1
+Zimbabwe,Gold,2004,1
+Zimbabwe,Gold,2008,1
+Zimbabwe,Silver,1980,0
+Zimbabwe,Silver,2004,1
+Zimbabwe,Silver,2008,3
+Zimbabwe,Bronze,1980,0
+Zimbabwe,Bronze,2004,1
+Zimbabwe,Bronze,2008,0
